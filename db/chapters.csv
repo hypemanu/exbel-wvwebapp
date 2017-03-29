@@ -1,0 +1,1984 @@
+name,book_id,chapter,chapter_index
+Genesis,1,1,1001
+Genesis,1,2,1002
+Genesis,1,3,1003
+Genesis,1,4,1004
+Genesis,1,5,1005
+Genesis,1,6,1006
+Genesis,1,7,1007
+Genesis,1,8,1008
+Genesis,1,9,1009
+Genesis,1,10,1010
+Genesis,1,11,1011
+Genesis,1,12,1012
+Genesis,1,13,1013
+Genesis,1,14,1014
+Genesis,1,15,1015
+Genesis,1,16,1016
+Genesis,1,17,1017
+Genesis,1,18,1018
+Genesis,1,19,1019
+Genesis,1,20,1020
+Genesis,1,21,1021
+Genesis,1,22,1022
+Genesis,1,23,1023
+Genesis,1,24,1024
+Genesis,1,25,1025
+Genesis,1,26,1026
+Genesis,1,27,1027
+Genesis,1,28,1028
+Genesis,1,29,1029
+Genesis,1,30,1030
+Genesis,1,31,1031
+Genesis,1,32,1032
+Genesis,1,33,1033
+Genesis,1,34,1034
+Genesis,1,35,1035
+Genesis,1,36,1036
+Genesis,1,37,1037
+Genesis,1,38,1038
+Genesis,1,39,1039
+Genesis,1,40,1040
+Genesis,1,41,1041
+Genesis,1,42,1042
+Genesis,1,43,1043
+Genesis,1,44,1044
+Genesis,1,45,1045
+Genesis,1,46,1046
+Genesis,1,47,1047
+Genesis,1,48,1048
+Genesis,1,49,1049
+Genesis,1,50,1050
+Genesis,1,51,1051
+Genesis,1,52,1052
+Genesis,1,53,1053
+Genesis,1,54,1054
+Genesis,1,55,1055
+Genesis,1,56,1056
+Genesis,1,57,1057
+Genesis,1,58,1058
+Genesis,1,59,1059
+Genesis,1,60,1060
+Genesis,1,61,1061
+Genesis,1,62,1062
+Genesis,1,63,1063
+Genesis,1,64,1064
+Genesis,1,65,1065
+Genesis,1,66,1066
+Genesis,1,67,1067
+Genesis,1,68,1068
+Genesis,1,69,1069
+Genesis,1,70,1070
+Genesis,1,71,1071
+Genesis,1,72,1072
+Genesis,1,73,1073
+Genesis,1,74,1074
+Genesis,1,75,1075
+Genesis,1,76,1076
+Genesis,1,77,1077
+Genesis,1,78,1078
+Genesis,1,79,1079
+Genesis,1,80,1080
+Genesis,1,81,1081
+Genesis,1,82,1082
+Genesis,1,83,1083
+Genesis,1,84,1084
+Genesis,1,85,1085
+Genesis,1,86,1086
+Genesis,1,87,1087
+Genesis,1,88,1088
+Genesis,1,89,1089
+Genesis,1,90,1090
+Genesis,1,91,1091
+Genesis,1,92,1092
+Genesis,1,93,1093
+Genesis,1,94,1094
+Genesis,1,95,1095
+Genesis,1,96,1096
+Genesis,1,97,1097
+Genesis,1,98,1098
+Genesis,1,99,1099
+Genesis,1,100,1100
+Genesis,1,101,1101
+Genesis,1,102,1102
+Genesis,1,103,1103
+Genesis,1,104,1104
+Genesis,1,105,1105
+Genesis,1,106,1106
+Genesis,1,107,1107
+Genesis,1,108,1108
+Genesis,1,109,1109
+Genesis,1,110,1110
+Genesis,1,111,1111
+Genesis,1,112,1112
+Genesis,1,113,1113
+Genesis,1,114,1114
+Genesis,1,115,1115
+Genesis,1,116,1116
+Genesis,1,117,1117
+Genesis,1,118,1118
+Genesis,1,119,1119
+Genesis,1,120,1120
+Exodus,2,1,2001
+Exodus,2,2,2002
+Exodus,2,3,2003
+Exodus,2,4,2004
+Exodus,2,5,2005
+Exodus,2,6,2006
+Exodus,2,7,2007
+Exodus,2,8,2008
+Exodus,2,9,2009
+Exodus,2,10,2010
+Exodus,2,11,2011
+Exodus,2,12,2012
+Exodus,2,13,2013
+Exodus,2,14,2014
+Exodus,2,15,2015
+Exodus,2,16,2016
+Exodus,2,17,2017
+Exodus,2,18,2018
+Exodus,2,19,2019
+Exodus,2,20,2020
+Exodus,2,21,2021
+Exodus,2,22,2022
+Exodus,2,23,2023
+Exodus,2,24,2024
+Exodus,2,25,2025
+Exodus,2,26,2026
+Exodus,2,27,2027
+Exodus,2,28,2028
+Exodus,2,29,2029
+Exodus,2,30,2030
+Exodus,2,31,2031
+Exodus,2,32,2032
+Exodus,2,33,2033
+Exodus,2,34,2034
+Exodus,2,35,2035
+Exodus,2,36,2036
+Exodus,2,37,2037
+Exodus,2,38,2038
+Exodus,2,39,2039
+Exodus,2,40,2040
+Exodus,2,41,2041
+Exodus,2,42,2042
+Exodus,2,43,2043
+Exodus,2,44,2044
+Exodus,2,45,2045
+Exodus,2,46,2046
+Exodus,2,47,2047
+Exodus,2,48,2048
+Exodus,2,49,2049
+Exodus,2,50,2050
+Exodus,2,51,2051
+Exodus,2,52,2052
+Exodus,2,53,2053
+Exodus,2,54,2054
+Exodus,2,55,2055
+Exodus,2,56,2056
+Exodus,2,57,2057
+Exodus,2,58,2058
+Exodus,2,59,2059
+Exodus,2,60,2060
+Exodus,2,61,2061
+Exodus,2,62,2062
+Exodus,2,63,2063
+Exodus,2,64,2064
+Exodus,2,65,2065
+Exodus,2,66,2066
+Exodus,2,67,2067
+Exodus,2,68,2068
+Exodus,2,69,2069
+Exodus,2,70,2070
+Exodus,2,71,2071
+Exodus,2,72,2072
+Exodus,2,73,2073
+Exodus,2,74,2074
+Exodus,2,75,2075
+Exodus,2,76,2076
+Exodus,2,77,2077
+Exodus,2,78,2078
+Exodus,2,79,2079
+Exodus,2,80,2080
+Exodus,2,81,2081
+Exodus,2,82,2082
+Exodus,2,83,2083
+Exodus,2,84,2084
+Exodus,2,85,2085
+Exodus,2,86,2086
+Exodus,2,87,2087
+Exodus,2,88,2088
+Exodus,2,89,2089
+Exodus,2,90,2090
+Exodus,2,91,2091
+Exodus,2,92,2092
+Exodus,2,93,2093
+Exodus,2,94,2094
+Exodus,2,95,2095
+Exodus,2,96,2096
+Exodus,2,97,2097
+Exodus,2,98,2098
+Exodus,2,99,2099
+Exodus,2,100,2100
+Exodus,2,101,2101
+Exodus,2,102,2102
+Exodus,2,103,2103
+Exodus,2,104,2104
+Exodus,2,105,2105
+Exodus,2,106,2106
+Exodus,2,107,2107
+Exodus,2,108,2108
+Exodus,2,109,2109
+Exodus,2,110,2110
+Exodus,2,111,2111
+Exodus,2,112,2112
+Exodus,2,113,2113
+Exodus,2,114,2114
+Exodus,2,115,2115
+Exodus,2,116,2116
+Exodus,2,117,2117
+Exodus,2,118,2118
+Exodus,2,119,2119
+Exodus,2,120,2120
+Exodus,2,121,2121
+Exodus,2,122,2122
+Exodus,2,123,2123
+Exodus,2,124,2124
+Exodus,2,125,2125
+Exodus,2,126,2126
+Exodus,2,127,2127
+Exodus,2,128,2128
+Exodus,2,129,2129
+Exodus,2,130,2130
+Exodus,2,131,2131
+Exodus,2,132,2132
+Exodus,2,133,2133
+Exodus,2,134,2134
+Exodus,2,135,2135
+Exodus,2,136,2136
+Exodus,2,137,2137
+Exodus,2,138,2138
+Exodus,2,139,2139
+Exodus,2,140,2140
+Exodus,2,141,2141
+Exodus,2,142,2142
+Exodus,2,143,2143
+Exodus,2,144,2144
+Exodus,2,145,2145
+Exodus,2,146,2146
+Exodus,2,147,2147
+Exodus,2,148,2148
+Exodus,2,149,2149
+Exodus,2,150,2150
+Exodus,2,151,2151
+Exodus,2,152,2152
+Exodus,2,153,2153
+Exodus,2,154,2154
+Exodus,2,155,2155
+Exodus,2,156,2156
+Exodus,2,157,2157
+Exodus,2,158,2158
+Exodus,2,159,2159
+Exodus,2,160,2160
+Exodus,2,161,2161
+Exodus,2,162,2162
+Exodus,2,163,2163
+Exodus,2,164,2164
+Exodus,2,165,2165
+Exodus,2,166,2166
+Exodus,2,167,2167
+Exodus,2,168,2168
+Exodus,2,169,2169
+Exodus,2,170,2170
+Exodus,2,171,2171
+Exodus,2,172,2172
+Exodus,2,173,2173
+Exodus,2,174,2174
+Exodus,2,175,2175
+Exodus,2,176,2176
+Exodus,2,177,2177
+Exodus,2,178,2178
+Exodus,2,179,2179
+Exodus,2,180,2180
+Exodus,2,181,2181
+Exodus,2,182,2182
+Exodus,2,183,2183
+Exodus,2,184,2184
+Exodus,2,185,2185
+Leviticus,3,1,3001
+Leviticus,3,2,3002
+Leviticus,3,3,3003
+Leviticus,3,4,3004
+Leviticus,3,5,3005
+Leviticus,3,6,3006
+Leviticus,3,7,3007
+Leviticus,3,8,3008
+Leviticus,3,9,3009
+Leviticus,3,10,3010
+Leviticus,3,11,3011
+Leviticus,3,12,3012
+Leviticus,3,13,3013
+Leviticus,3,14,3014
+Leviticus,3,15,3015
+Leviticus,3,16,3016
+Leviticus,3,17,3017
+Leviticus,3,18,3018
+Leviticus,3,19,3019
+Leviticus,3,20,3020
+Leviticus,3,21,3021
+Leviticus,3,22,3022
+Leviticus,3,23,3023
+Leviticus,3,24,3024
+Leviticus,3,25,3025
+Leviticus,3,26,3026
+Leviticus,3,27,3027
+Leviticus,3,28,3028
+Leviticus,3,29,3029
+Leviticus,3,30,3030
+Leviticus,3,31,3031
+Leviticus,3,32,3032
+Leviticus,3,33,3033
+Leviticus,3,34,3034
+Leviticus,3,35,3035
+Leviticus,3,36,3036
+Leviticus,3,37,3037
+Leviticus,3,38,3038
+Leviticus,3,39,3039
+Leviticus,3,40,3040
+Leviticus,3,41,3041
+Leviticus,3,42,3042
+Leviticus,3,43,3043
+Leviticus,3,44,3044
+Leviticus,3,45,3045
+Leviticus,3,46,3046
+Leviticus,3,47,3047
+Leviticus,3,48,3048
+Leviticus,3,49,3049
+Leviticus,3,50,3050
+Leviticus,3,51,3051
+Leviticus,3,52,3052
+Leviticus,3,53,3053
+Leviticus,3,54,3054
+Leviticus,3,55,3055
+Leviticus,3,56,3056
+Leviticus,3,57,3057
+Leviticus,3,58,3058
+Leviticus,3,59,3059
+Leviticus,3,60,3060
+Leviticus,3,61,3061
+Leviticus,3,62,3062
+Leviticus,3,63,3063
+Leviticus,3,64,3064
+Numbers,4,1,4001
+Numbers,4,2,4002
+Numbers,4,3,4003
+Numbers,4,4,4004
+Numbers,4,5,4005
+Numbers,4,6,4006
+Numbers,4,7,4007
+Numbers,4,8,4008
+Numbers,4,9,4009
+Numbers,4,10,4010
+Numbers,4,11,4011
+Numbers,4,12,4012
+Numbers,4,13,4013
+Numbers,4,14,4014
+Numbers,4,15,4015
+Numbers,4,16,4016
+Numbers,4,17,4017
+Numbers,4,18,4018
+Numbers,4,19,4019
+Numbers,4,20,4020
+Numbers,4,21,4021
+Numbers,4,22,4022
+Numbers,4,23,4023
+Numbers,4,24,4024
+Numbers,4,25,4025
+Numbers,4,26,4026
+Numbers,4,27,4027
+Numbers,4,28,4028
+Numbers,4,29,4029
+Numbers,4,30,4030
+Numbers,4,31,4031
+Numbers,4,32,4032
+Numbers,4,33,4033
+Numbers,4,34,4034
+Numbers,4,35,4035
+Numbers,4,36,4036
+Numbers,4,37,4037
+Numbers,4,38,4038
+Numbers,4,39,4039
+Numbers,4,40,4040
+Numbers,4,41,4041
+Numbers,4,42,4042
+Numbers,4,43,4043
+Numbers,4,44,4044
+Numbers,4,45,4045
+Numbers,4,46,4046
+Numbers,4,47,4047
+Numbers,4,48,4048
+Numbers,4,49,4049
+Numbers,4,50,4050
+Numbers,4,51,4051
+Numbers,4,52,4052
+Numbers,4,53,4053
+Deuteronomy,5,1,5001
+Deuteronomy,5,2,5002
+Deuteronomy,5,3,5003
+Deuteronomy,5,4,5004
+Deuteronomy,5,5,5005
+Deuteronomy,5,6,5006
+Deuteronomy,5,7,5007
+Deuteronomy,5,8,5008
+Deuteronomy,5,9,5009
+Deuteronomy,5,10,5010
+Deuteronomy,5,11,5011
+Deuteronomy,5,12,5012
+Deuteronomy,5,13,5013
+Deuteronomy,5,14,5014
+Deuteronomy,5,15,5015
+Deuteronomy,5,16,5016
+Deuteronomy,5,17,5017
+Deuteronomy,5,18,5018
+Deuteronomy,5,19,5019
+Deuteronomy,5,20,5020
+Deuteronomy,5,21,5021
+Deuteronomy,5,22,5022
+Deuteronomy,5,23,5023
+Deuteronomy,5,24,5024
+Deuteronomy,5,25,5025
+Deuteronomy,5,26,5026
+Deuteronomy,5,27,5027
+Deuteronomy,5,28,5028
+Deuteronomy,5,29,5029
+Deuteronomy,5,30,5030
+Joshua,6,1,6001
+Joshua,6,2,6002
+Joshua,6,3,6003
+Joshua,6,4,6004
+Joshua,6,5,6005
+Joshua,6,6,6006
+Joshua,6,7,6007
+Joshua,6,8,6008
+Joshua,6,9,6009
+Joshua,6,10,6010
+Joshua,6,11,6011
+Joshua,6,12,6012
+Joshua,6,13,6013
+Joshua,6,14,6014
+Joshua,6,15,6015
+Judges,7,1,7001
+Judges,7,2,7002
+Judges,7,3,7003
+Judges,7,4,7004
+Judges,7,5,7005
+Judges,7,6,7006
+Judges,7,7,7007
+Judges,7,8,7008
+Judges,7,9,7009
+Judges,7,10,7010
+Ruth,8,1,8001
+Ruth,8,2,8002
+Ruth,8,3,8003
+Ruth,8,4,8004
+Ruth,8,5,8005
+Ruth,8,6,8006
+Ruth,8,7,8007
+Ruth,8,8,8008
+1 & 2 Samuel,9,1,9001
+1 & 2 Samuel,9,2,9002
+1 & 2 Samuel,9,3,9003
+1 & 2 Samuel,9,4,9004
+1 & 2 Samuel,9,5,9005
+1 & 2 Samuel,9,6,9006
+1 & 2 Samuel,9,7,9007
+1 & 2 Samuel,9,8,9008
+1 & 2 Samuel,9,9,9009
+1 & 2 Samuel,9,10,9010
+1 & 2 Samuel,9,11,9011
+1 & 2 Samuel,9,12,9012
+1 & 2 Samuel,9,13,9013
+1 & 2 Samuel,9,14,9014
+1 & 2 Samuel,9,15,9015
+1 & 2 Samuel,9,16,9016
+1 & 2 Samuel,9,17,9017
+1 & 2 Samuel,9,18,9018
+1 & 2 Samuel,9,19,9019
+1 & 2 Samuel,9,20,9020
+1 & 2 Samuel,9,21,9021
+1 & 2 Samuel,9,22,9022
+1 & 2 Samuel,9,23,9023
+1 & 2 Samuel,9,24,9024
+1 & 2 Samuel,9,25,9025
+1 & 2 Samuel,9,26,9026
+1 & 2 Samuel,9,27,9027
+1 & 2 Samuel,9,28,9028
+1 & 2 Samuel,9,29,9029
+1 & 2 Samuel,9,30,9030
+1 & 2 Samuel,9,31,9031
+1 & 2 Samuel,9,32,9032
+1 & 2 Samuel,9,33,9033
+1 & 2 Samuel,9,34,9034
+1 & 2 Samuel,9,35,9035
+1 & 2 Samuel,9,36,9036
+1 & 2 Samuel,9,37,9037
+1 & 2 Samuel,9,38,9038
+1 & 2 Kings,10,1,10001
+1 & 2 Kings,10,2,10002
+1 & 2 Kings,10,3,10003
+1 & 2 Kings,10,4,10004
+1 & 2 Kings,10,5,10005
+1 & 2 Kings,10,6,10006
+1 & 2 Kings,10,7,10007
+1 & 2 Kings,10,8,10008
+1 & 2 Kings,10,9,10009
+1 & 2 Kings,10,10,10010
+1 & 2 Kings,10,11,10011
+1 & 2 Kings,10,12,10012
+1 & 2 Kings,10,13,10013
+1 & 2 Kings,10,14,10014
+1 & 2 Kings,10,15,10015
+1 & 2 Kings,10,16,10016
+1 & 2 Kings,10,17,10017
+1 & 2 Kings,10,18,10018
+1 & 2 Kings,10,19,10019
+1 & 2 Kings,10,20,10020
+1 & 2 Kings,10,21,10021
+1 & 2 Kings,10,22,10022
+1 & 2 Kings,10,23,10023
+1 & 2 Chronicles,11,1,11001
+1 & 2 Chronicles,11,2,11002
+1 & 2 Chronicles,11,3,11003
+1 & 2 Chronicles,11,4,11004
+1 & 2 Chronicles,11,5,11005
+1 & 2 Chronicles,11,6,11006
+1 & 2 Chronicles,11,7,11007
+1 & 2 Chronicles,11,8,11008
+1 & 2 Chronicles,11,9,11009
+1 & 2 Chronicles,11,10,11010
+1 & 2 Chronicles,11,11,11011
+1 & 2 Chronicles,11,12,11012
+1 & 2 Chronicles,11,13,11013
+Ezra,12,1,12001
+Ezra,12,2,12002
+Ezra,12,3,12003
+Ezra,12,4,12004
+Ezra,12,5,12005
+Nehemiah,13,1,13001
+Nehemiah,13,2,13002
+Nehemiah,13,3,13003
+Nehemiah,13,4,13004
+Nehemiah,13,5,13005
+Esther,14,1,14001
+Esther,14,2,14002
+Job,15,1,15001
+Job,15,2,15002
+Job,15,3,15003
+Job,15,4,15004
+Job,15,5,15005
+Job,15,6,15006
+Job,15,7,15007
+Job,15,8,15008
+Job,15,9,15009
+Job,15,10,15010
+Job,15,11,15011
+Job,15,12,15012
+Job,15,13,15013
+Job,15,14,15014
+Job,15,15,15015
+Job,15,16,15016
+Job,15,17,15017
+Job,15,18,15018
+Job,15,19,15019
+Job,15,20,15020
+Job,15,21,15021
+Job,15,22,15022
+Job,15,23,15023
+Job,15,24,15024
+Job,15,25,15025
+Job,15,26,15026
+Job,15,27,15027
+Job,15,28,15028
+Job,15,29,15029
+Job,15,30,15030
+Job,15,31,15031
+Job,15,32,15032
+Job,15,33,15033
+Job,15,34,15034
+Job,15,35,15035
+Job,15,36,15036
+Job,15,37,15037
+Job,15,38,15038
+Psalms,16,1,16001
+Psalms,16,2,16002
+Psalms,16,3,16003
+Psalms,16,4,16004
+Psalms,16,5,16005
+Psalms,16,6,16006
+Psalms,16,7,16007
+Psalms,16,8,16008
+Psalms,16,9,16009
+Psalms,16,10,16010
+Psalms,16,11,16011
+Psalms,16,12,16012
+Psalms,16,13,16013
+Psalms,16,14,16014
+Psalms,16,15,16015
+Psalms,16,16,16016
+Psalms,16,17,16017
+Psalms,16,18,16018
+Psalms,16,19,16019
+Psalms,16,20,16020
+Psalms,16,21,16021
+Psalms,16,22,16022
+Psalms,16,23,16023
+Psalms,16,24,16024
+Psalms,16,25,16025
+Psalms,16,26,16026
+Psalms,16,27,16027
+Psalms,16,28,16028
+Psalms,16,29,16029
+Psalms,16,30,16030
+Psalms,16,31,16031
+Psalms,16,32,16032
+Psalms,16,33,16033
+Psalms,16,34,16034
+Psalms,16,35,16035
+Psalms,16,36,16036
+Psalms,16,37,16037
+Psalms,16,38,16038
+Psalms,16,39,16039
+Psalms,16,40,16040
+Psalms,16,41,16041
+Psalms,16,42,16042
+Psalms,16,43,16043
+Psalms,16,44,16044
+Psalms,16,45,16045
+Proverbs,17,1,17001
+Proverbs,17,2,17002
+Proverbs,17,3,17003
+Proverbs,17,4,17004
+Proverbs,17,5,17005
+Proverbs,17,6,17006
+Proverbs,17,7,17007
+Proverbs,17,8,17008
+Ecclesiastes,18,1,18001
+Ecclesiastes,18,2,18002
+Song of Songs,19,1,19001
+Song of Songs,19,2,19002
+Song of Songs,19,3,19003
+Song of Songs,19,4,19004
+Song of Songs,19,5,19005
+Song of Songs,19,6,19006
+Song of Songs,19,7,19007
+Song of Songs,19,8,19008
+Song of Songs,19,9,19009
+Song of Songs,19,10,19010
+Isaiah,20,1,20001
+Isaiah,20,2,20002
+Isaiah,20,3,20003
+Isaiah,20,4,20004
+Isaiah,20,5,20005
+Isaiah,20,6,20006
+Isaiah,20,7,20007
+Isaiah,20,8,20008
+Isaiah,20,9,20009
+Isaiah,20,10,20010
+Isaiah,20,11,20011
+Isaiah,20,12,20012
+Isaiah,20,13,20013
+Isaiah,20,14,20014
+Isaiah,20,15,20015
+Isaiah,20,16,20016
+Isaiah,20,17,20017
+Isaiah,20,18,20018
+Isaiah,20,19,20019
+Isaiah,20,20,20020
+Isaiah,20,21,20021
+Isaiah,20,22,20022
+Isaiah,20,23,20023
+Isaiah,20,24,20024
+Isaiah,20,25,20025
+Isaiah,20,26,20026
+Isaiah,20,27,20027
+Isaiah,20,28,20028
+Isaiah,20,29,20029
+Isaiah,20,30,20030
+Isaiah,20,31,20031
+Isaiah,20,32,20032
+Isaiah,20,33,20033
+Isaiah,20,34,20034
+Isaiah,20,35,20035
+Isaiah,20,36,20036
+Isaiah,20,37,20037
+Isaiah,20,38,20038
+Isaiah,20,39,20039
+Isaiah,20,40,20040
+Isaiah,20,41,20041
+Isaiah,20,42,20042
+Isaiah,20,43,20043
+Isaiah,20,44,20044
+Isaiah,20,45,20045
+Isaiah,20,46,20046
+Isaiah,20,47,20047
+Isaiah,20,48,20048
+Isaiah,20,49,20049
+Isaiah,20,50,20050
+Isaiah,20,51,20051
+Isaiah,20,52,20052
+Isaiah,20,53,20053
+Isaiah,20,54,20054
+Jeremiah,21,1,21001
+Jeremiah,21,2,21002
+Jeremiah,21,3,21003
+Jeremiah,21,4,21004
+Jeremiah,21,5,21005
+Jeremiah,21,6,21006
+Jeremiah,21,7,21007
+Jeremiah,21,8,21008
+Jeremiah,21,9,21009
+Jeremiah,21,10,21010
+Jeremiah,21,11,21011
+Jeremiah,21,12,21012
+Jeremiah,21,13,21013
+Jeremiah,21,14,21014
+Jeremiah,21,15,21015
+Jeremiah,21,16,21016
+Jeremiah,21,17,21017
+Jeremiah,21,18,21018
+Jeremiah,21,19,21019
+Jeremiah,21,20,21020
+Jeremiah,21,21,21021
+Jeremiah,21,22,21022
+Jeremiah,21,23,21023
+Jeremiah,21,24,21024
+Jeremiah,21,25,21025
+Jeremiah,21,26,21026
+Jeremiah,21,27,21027
+Jeremiah,21,28,21028
+Jeremiah,21,29,21029
+Jeremiah,21,30,21030
+Jeremiah,21,31,21031
+Jeremiah,21,32,21032
+Jeremiah,21,33,21033
+Jeremiah,21,34,21034
+Jeremiah,21,35,21035
+Jeremiah,21,36,21036
+Jeremiah,21,37,21037
+Jeremiah,21,38,21038
+Jeremiah,21,39,21039
+Jeremiah,21,40,21040
+Lamentations,22,1,22001
+Lamentations,22,2,22002
+Lamentations,22,3,22003
+Lamentations,22,4,22004
+Ezekiel,23,1,23001
+Ezekiel,23,2,23002
+Ezekiel,23,3,23003
+Ezekiel,23,4,23004
+Ezekiel,23,5,23005
+Ezekiel,23,6,23006
+Ezekiel,23,7,23007
+Ezekiel,23,8,23008
+Ezekiel,23,9,23009
+Ezekiel,23,10,23010
+Ezekiel,23,11,23011
+Ezekiel,23,12,23012
+Ezekiel,23,13,23013
+Ezekiel,23,14,23014
+Ezekiel,23,15,23015
+Ezekiel,23,16,23016
+Ezekiel,23,17,23017
+Ezekiel,23,18,23018
+Ezekiel,23,19,23019
+Ezekiel,23,20,23020
+Ezekiel,23,21,23021
+Ezekiel,23,22,23022
+Ezekiel,23,23,23023
+Ezekiel,23,24,23024
+Ezekiel,23,25,23025
+Ezekiel,23,26,23026
+Ezekiel,23,27,23027
+Daniel,24,1,24001
+Daniel,24,2,24002
+Daniel,24,3,24003
+Daniel,24,4,24004
+Daniel,24,5,24005
+Daniel,24,6,24006
+Daniel,24,7,24007
+Daniel,24,8,24008
+Daniel,24,9,24009
+Daniel,24,10,24010
+Daniel,24,11,24011
+Daniel,24,12,24012
+Daniel,24,13,24013
+Daniel,24,14,24014
+Daniel,24,15,24015
+Daniel,24,16,24016
+Daniel,24,17,24017
+the Minor Prophets,25,1,25001
+the Minor Prophets,25,2,25002
+the Minor Prophets,25,3,25003
+the Minor Prophets,25,4,25004
+the Minor Prophets,25,5,25005
+the Minor Prophets,25,6,25006
+the Minor Prophets,25,7,25007
+the Minor Prophets,25,8,25008
+the Minor Prophets,25,9,25009
+the Minor Prophets,25,10,25010
+the Minor Prophets,25,11,25011
+the Minor Prophets,25,12,25012
+the Minor Prophets,25,13,25013
+the Minor Prophets,25,14,25014
+the Minor Prophets,25,15,25015
+the Minor Prophets,25,16,25016
+the Minor Prophets,25,17,25017
+the Minor Prophets,25,18,25018
+the Minor Prophets,25,19,25019
+the Minor Prophets,25,20,25020
+the Minor Prophets,25,21,25021
+the Minor Prophets,25,22,25022
+the Minor Prophets,25,23,25023
+the Minor Prophets,25,24,25024
+the Minor Prophets,25,25,25025
+the Minor Prophets,25,26,25026
+the Minor Prophets,25,27,25027
+the Minor Prophets,25,28,25028
+the Minor Prophets,25,29,25029
+the Minor Prophets,25,30,25030
+the Minor Prophets,25,31,25031
+the Minor Prophets,25,32,25032
+the Minor Prophets,25,33,25033
+the Minor Prophets,25,34,25034
+the Minor Prophets,25,35,25035
+Zechariah,26,1,26001
+Zechariah,26,2,26002
+Zechariah,26,3,26003
+Zechariah,26,4,26004
+Zechariah,26,5,26005
+Zechariah,26,6,26006
+Zechariah,26,7,26007
+Zechariah,26,8,26008
+Zechariah,26,9,26009
+Zechariah,26,10,26010
+Zechariah,26,11,26011
+Zechariah,26,12,26012
+Zechariah,26,13,26013
+Zechariah,26,14,26014
+Zechariah,26,15,26015
+Matthew,27,1,27001
+Matthew,27,2,27002
+Matthew,27,3,27003
+Matthew,27,4,27004
+Matthew,27,5,27005
+Matthew,27,6,27006
+Matthew,27,7,27007
+Matthew,27,8,27008
+Matthew,27,9,27009
+Matthew,27,10,27010
+Matthew,27,11,27011
+Matthew,27,12,27012
+Matthew,27,13,27013
+Matthew,27,14,27014
+Matthew,27,15,27015
+Matthew,27,16,27016
+Matthew,27,17,27017
+Matthew,27,18,27018
+Matthew,27,19,27019
+Matthew,27,20,27020
+Matthew,27,21,27021
+Matthew,27,22,27022
+Matthew,27,23,27023
+Matthew,27,24,27024
+Matthew,27,25,27025
+Matthew,27,26,27026
+Matthew,27,27,27027
+Matthew,27,28,27028
+Matthew,27,29,27029
+Matthew,27,30,27030
+Matthew,27,31,27031
+Matthew,27,32,27032
+Matthew,27,33,27033
+Matthew,27,34,27034
+Matthew,27,35,27035
+Matthew,27,36,27036
+Matthew,27,37,27037
+Matthew,27,38,27038
+Matthew,27,39,27039
+Matthew,27,40,27040
+Matthew,27,41,27041
+Matthew,27,42,27042
+Matthew,27,43,27043
+Matthew,27,44,27044
+Matthew,27,45,27045
+Matthew,27,46,27046
+Matthew,27,47,27047
+Matthew,27,48,27048
+Matthew,27,49,27049
+Matthew,27,50,27050
+Matthew,27,51,27051
+Matthew,27,52,27052
+Matthew,27,53,27053
+Matthew,27,54,27054
+Matthew,27,55,27055
+Matthew,27,56,27056
+Matthew,27,57,27057
+Matthew,27,58,27058
+Matthew,27,59,27059
+Matthew,27,60,27060
+Matthew,27,61,27061
+Matthew,27,62,27062
+Matthew,27,63,27063
+Matthew,27,64,27064
+Matthew,27,65,27065
+Matthew,27,66,27066
+Matthew,27,67,27067
+Matthew,27,68,27068
+Matthew,27,69,27069
+Matthew,27,70,27070
+Matthew,27,71,27071
+Matthew,27,72,27072
+Mark,28,1,28001
+Mark,28,2,28002
+Mark,28,3,28003
+Mark,28,4,28004
+Mark,28,5,28005
+Mark,28,6,28006
+Mark,28,7,28007
+Mark,28,8,28008
+Mark,28,9,28009
+Mark,28,10,28010
+Mark,28,11,28011
+Mark,28,12,28012
+Mark,28,13,28013
+Mark,28,14,28014
+Mark,28,15,28015
+Mark,28,16,28016
+Mark,28,17,28017
+Mark,28,18,28018
+Mark,28,19,28019
+Mark,28,20,28020
+Mark,28,21,28021
+Mark,28,22,28022
+Mark,28,23,28023
+Mark,28,24,28024
+Mark,28,25,28025
+Mark,28,26,28026
+Mark,28,27,28027
+Mark,28,28,28028
+Mark,28,29,28029
+Mark,28,30,28030
+Mark,28,31,28031
+Mark,28,32,28032
+Mark,28,33,28033
+Mark,28,34,28034
+Mark,28,35,28035
+Mark,28,36,28036
+Mark,28,37,28037
+Mark,28,38,28038
+Mark,28,39,28039
+Mark,28,40,28040
+Mark,28,41,28041
+Mark,28,42,28042
+Mark,28,43,28043
+Mark,28,44,28044
+Mark,28,45,28045
+Mark,28,46,28046
+Mark,28,47,28047
+Mark,28,48,28048
+Mark,28,49,28049
+Mark,28,50,28050
+Mark,28,51,28051
+Mark,28,52,28052
+Mark,28,53,28053
+Mark,28,54,28054
+Mark,28,55,28055
+Mark,28,56,28056
+Mark,28,57,28057
+Mark,28,58,28058
+Mark,28,59,28059
+Mark,28,60,28060
+Mark,28,61,28061
+Mark,28,62,28062
+Mark,28,63,28063
+Mark,28,64,28064
+Mark,28,65,28065
+Mark,28,66,28066
+Mark,28,67,28067
+Mark,28,68,28068
+Mark,28,69,28069
+Mark,28,70,28070
+Luke,29,1,29001
+Luke,29,2,29002
+Luke,29,3,29003
+Luke,29,4,29004
+Luke,29,5,29005
+Luke,29,6,29006
+Luke,29,7,29007
+Luke,29,8,29008
+Luke,29,9,29009
+Luke,29,10,29010
+Luke,29,11,29011
+Luke,29,12,29012
+Luke,29,13,29013
+Luke,29,14,29014
+Luke,29,15,29015
+Luke,29,16,29016
+Luke,29,17,29017
+Luke,29,18,29018
+Luke,29,19,29019
+Luke,29,20,29020
+Luke,29,21,29021
+Luke,29,22,29022
+Luke,29,23,29023
+Luke,29,24,29024
+Luke,29,25,29025
+Luke,29,26,29026
+Luke,29,27,29027
+Luke,29,28,29028
+Luke,29,29,29029
+Luke,29,30,29030
+Luke,29,31,29031
+Luke,29,32,29032
+Luke,29,33,29033
+Luke,29,34,29034
+Luke,29,35,29035
+Luke,29,36,29036
+Luke,29,37,29037
+Luke,29,38,29038
+Luke,29,39,29039
+Luke,29,40,29040
+Luke,29,41,29041
+Luke,29,42,29042
+Luke,29,43,29043
+Luke,29,44,29044
+Luke,29,45,29045
+Luke,29,46,29046
+Luke,29,47,29047
+Luke,29,48,29048
+Luke,29,49,29049
+Luke,29,50,29050
+Luke,29,51,29051
+Luke,29,52,29052
+Luke,29,53,29053
+Luke,29,54,29054
+Luke,29,55,29055
+Luke,29,56,29056
+Luke,29,57,29057
+Luke,29,58,29058
+Luke,29,59,29059
+Luke,29,60,29060
+Luke,29,61,29061
+Luke,29,62,29062
+Luke,29,63,29063
+Luke,29,64,29064
+Luke,29,65,29065
+Luke,29,66,29066
+Luke,29,67,29067
+Luke,29,68,29068
+Luke,29,69,29069
+Luke,29,70,29070
+Luke,29,71,29071
+Luke,29,72,29072
+Luke,29,73,29073
+Luke,29,74,29074
+Luke,29,75,29075
+Luke,29,76,29076
+Luke,29,77,29077
+Luke,29,78,29078
+Luke,29,79,29079
+John,30,1,30001
+John,30,2,30002
+John,30,3,30003
+John,30,4,30004
+John,30,5,30005
+John,30,6,30006
+John,30,7,30007
+John,30,8,30008
+John,30,9,30009
+John,30,10,30010
+John,30,11,30011
+John,30,12,30012
+John,30,13,30013
+John,30,14,30014
+John,30,15,30015
+John,30,16,30016
+John,30,17,30017
+John,30,18,30018
+John,30,19,30019
+John,30,20,30020
+John,30,21,30021
+John,30,22,30022
+John,30,23,30023
+John,30,24,30024
+John,30,25,30025
+John,30,26,30026
+John,30,27,30027
+John,30,28,30028
+John,30,29,30029
+John,30,30,30030
+John,30,31,30031
+John,30,32,30032
+John,30,33,30033
+John,30,34,30034
+John,30,35,30035
+John,30,36,30036
+John,30,37,30037
+John,30,38,30038
+John,30,39,30039
+John,30,40,30040
+John,30,41,30041
+John,30,42,30042
+John,30,43,30043
+John,30,44,30044
+John,30,45,30045
+John,30,46,30046
+John,30,47,30047
+John,30,48,30048
+John,30,49,30049
+John,30,50,30050
+John,30,51,30051
+Acts,31,1,31001
+Acts,31,2,31002
+Acts,31,3,31003
+Acts,31,4,31004
+Acts,31,5,31005
+Acts,31,6,31006
+Acts,31,7,31007
+Acts,31,8,31008
+Acts,31,9,31009
+Acts,31,10,31010
+Acts,31,11,31011
+Acts,31,12,31012
+Acts,31,13,31013
+Acts,31,14,31014
+Acts,31,15,31015
+Acts,31,16,31016
+Acts,31,17,31017
+Acts,31,18,31018
+Acts,31,19,31019
+Acts,31,20,31020
+Acts,31,21,31021
+Acts,31,22,31022
+Acts,31,23,31023
+Acts,31,24,31024
+Acts,31,25,31025
+Acts,31,26,31026
+Acts,31,27,31027
+Acts,31,28,31028
+Acts,31,29,31029
+Acts,31,30,31030
+Acts,31,31,31031
+Acts,31,32,31032
+Acts,31,33,31033
+Acts,31,34,31034
+Acts,31,35,31035
+Acts,31,36,31036
+Acts,31,37,31037
+Acts,31,38,31038
+Acts,31,39,31039
+Acts,31,40,31040
+Acts,31,41,31041
+Acts,31,42,31042
+Acts,31,43,31043
+Acts,31,44,31044
+Acts,31,45,31045
+Acts,31,46,31046
+Acts,31,47,31047
+Acts,31,48,31048
+Acts,31,49,31049
+Acts,31,50,31050
+Acts,31,51,31051
+Acts,31,52,31052
+Acts,31,53,31053
+Acts,31,54,31054
+Acts,31,55,31055
+Acts,31,56,31056
+Acts,31,57,31057
+Acts,31,58,31058
+Acts,31,59,31059
+Acts,31,60,31060
+Acts,31,61,31061
+Acts,31,62,31062
+Acts,31,63,31063
+Acts,31,64,31064
+Acts,31,65,31065
+Acts,31,66,31066
+Acts,31,67,31067
+Acts,31,68,31068
+Acts,31,69,31069
+Acts,31,70,31070
+Acts,31,71,31071
+Acts,31,72,31072
+Romans,32,1,32001
+Romans,32,2,32002
+Romans,32,3,32003
+Romans,32,4,32004
+Romans,32,5,32005
+Romans,32,6,32006
+Romans,32,7,32007
+Romans,32,8,32008
+Romans,32,9,32009
+Romans,32,10,32010
+Romans,32,11,32011
+Romans,32,12,32012
+Romans,32,13,32013
+Romans,32,14,32014
+Romans,32,15,32015
+Romans,32,16,32016
+Romans,32,17,32017
+Romans,32,18,32018
+Romans,32,19,32019
+Romans,32,20,32020
+Romans,32,21,32021
+Romans,32,22,32022
+Romans,32,23,32023
+Romans,32,24,32024
+Romans,32,25,32025
+Romans,32,26,32026
+Romans,32,27,32027
+Romans,32,28,32028
+Romans,32,29,32029
+Romans,32,30,32030
+Romans,32,31,32031
+Romans,32,32,32032
+Romans,32,33,32033
+Romans,32,34,32034
+Romans,32,35,32035
+Romans,32,36,32036
+Romans,32,37,32037
+Romans,32,38,32038
+Romans,32,39,32039
+Romans,32,40,32040
+Romans,32,41,32041
+Romans,32,42,32042
+Romans,32,43,32043
+Romans,32,44,32044
+Romans,32,45,32045
+Romans,32,46,32046
+Romans,32,47,32047
+Romans,32,48,32048
+Romans,32,49,32049
+Romans,32,50,32050
+Romans,32,51,32051
+Romans,32,52,32052
+Romans,32,53,32053
+Romans,32,54,32054
+Romans,32,55,32055
+Romans,32,56,32056
+Romans,32,57,32057
+Romans,32,58,32058
+Romans,32,59,32059
+Romans,32,60,32060
+Romans,32,61,32061
+Romans,32,62,32062
+Romans,32,63,32063
+Romans,32,64,32064
+Romans,32,65,32065
+Romans,32,66,32066
+Romans,32,67,32067
+Romans,32,68,32068
+Romans,32,69,32069
+1 Corinthians,33,1,33001
+1 Corinthians,33,2,33002
+1 Corinthians,33,3,33003
+1 Corinthians,33,4,33004
+1 Corinthians,33,5,33005
+1 Corinthians,33,6,33006
+1 Corinthians,33,7,33007
+1 Corinthians,33,8,33008
+1 Corinthians,33,9,33009
+1 Corinthians,33,10,33010
+1 Corinthians,33,11,33011
+1 Corinthians,33,12,33012
+1 Corinthians,33,13,33013
+1 Corinthians,33,14,33014
+1 Corinthians,33,15,33015
+1 Corinthians,33,16,33016
+1 Corinthians,33,17,33017
+1 Corinthians,33,18,33018
+1 Corinthians,33,19,33019
+1 Corinthians,33,20,33020
+1 Corinthians,33,21,33021
+1 Corinthians,33,22,33022
+1 Corinthians,33,23,33023
+1 Corinthians,33,24,33024
+1 Corinthians,33,25,33025
+1 Corinthians,33,26,33026
+1 Corinthians,33,27,33027
+1 Corinthians,33,28,33028
+1 Corinthians,33,29,33029
+1 Corinthians,33,30,33030
+1 Corinthians,33,31,33031
+1 Corinthians,33,32,33032
+1 Corinthians,33,33,33033
+1 Corinthians,33,34,33034
+1 Corinthians,33,35,33035
+1 Corinthians,33,36,33036
+1 Corinthians,33,37,33037
+1 Corinthians,33,38,33038
+1 Corinthians,33,39,33039
+1 Corinthians,33,40,33040
+1 Corinthians,33,41,33041
+1 Corinthians,33,42,33042
+1 Corinthians,33,43,33043
+1 Corinthians,33,44,33044
+1 Corinthians,33,45,33045
+1 Corinthians,33,46,33046
+1 Corinthians,33,47,33047
+1 Corinthians,33,48,33048
+1 Corinthians,33,49,33049
+1 Corinthians,33,50,33050
+1 Corinthians,33,51,33051
+1 Corinthians,33,52,33052
+1 Corinthians,33,53,33053
+1 Corinthians,33,54,33054
+1 Corinthians,33,55,33055
+1 Corinthians,33,56,33056
+1 Corinthians,33,57,33057
+1 Corinthians,33,58,33058
+1 Corinthians,33,59,33059
+1 Corinthians,33,60,33060
+1 Corinthians,33,61,33061
+1 Corinthians,33,62,33062
+1 Corinthians,33,63,33063
+1 Corinthians,33,64,33064
+1 Corinthians,33,65,33065
+1 Corinthians,33,66,33066
+1 Corinthians,33,67,33067
+1 Corinthians,33,68,33068
+1 Corinthians,33,69,33069
+2 Corinthians,34,1,34001
+2 Corinthians,34,2,34002
+2 Corinthians,34,3,34003
+2 Corinthians,34,4,34004
+2 Corinthians,34,5,34005
+2 Corinthians,34,6,34006
+2 Corinthians,34,7,34007
+2 Corinthians,34,8,34008
+2 Corinthians,34,9,34009
+2 Corinthians,34,10,34010
+2 Corinthians,34,11,34011
+2 Corinthians,34,12,34012
+2 Corinthians,34,13,34013
+2 Corinthians,34,14,34014
+2 Corinthians,34,15,34015
+2 Corinthians,34,16,34016
+2 Corinthians,34,17,34017
+2 Corinthians,34,18,34018
+2 Corinthians,34,19,34019
+2 Corinthians,34,20,34020
+2 Corinthians,34,21,34021
+2 Corinthians,34,22,34022
+2 Corinthians,34,23,34023
+2 Corinthians,34,24,34024
+2 Corinthians,34,25,34025
+2 Corinthians,34,26,34026
+2 Corinthians,34,27,34027
+2 Corinthians,34,28,34028
+2 Corinthians,34,29,34029
+2 Corinthians,34,30,34030
+2 Corinthians,34,31,34031
+2 Corinthians,34,32,34032
+2 Corinthians,34,33,34033
+2 Corinthians,34,34,34034
+2 Corinthians,34,35,34035
+2 Corinthians,34,36,34036
+2 Corinthians,34,37,34037
+2 Corinthians,34,38,34038
+2 Corinthians,34,39,34039
+2 Corinthians,34,40,34040
+2 Corinthians,34,41,34041
+2 Corinthians,34,42,34042
+2 Corinthians,34,43,34043
+2 Corinthians,34,44,34044
+2 Corinthians,34,45,34045
+2 Corinthians,34,46,34046
+2 Corinthians,34,47,34047
+2 Corinthians,34,48,34048
+2 Corinthians,34,49,34049
+2 Corinthians,34,50,34050
+2 Corinthians,34,51,34051
+2 Corinthians,34,52,34052
+2 Corinthians,34,53,34053
+2 Corinthians,34,54,34054
+2 Corinthians,34,55,34055
+2 Corinthians,34,56,34056
+2 Corinthians,34,57,34057
+2 Corinthians,34,58,34058
+2 Corinthians,34,59,34059
+Galatians,35,1,35001
+Galatians,35,2,35002
+Galatians,35,3,35003
+Galatians,35,4,35004
+Galatians,35,5,35005
+Galatians,35,6,35006
+Galatians,35,7,35007
+Galatians,35,8,35008
+Galatians,35,9,35009
+Galatians,35,10,35010
+Galatians,35,11,35011
+Galatians,35,12,35012
+Galatians,35,13,35013
+Galatians,35,14,35014
+Galatians,35,15,35015
+Galatians,35,16,35016
+Galatians,35,17,35017
+Galatians,35,18,35018
+Galatians,35,19,35019
+Galatians,35,20,35020
+Galatians,35,21,35021
+Galatians,35,22,35022
+Galatians,35,23,35023
+Galatians,35,24,35024
+Galatians,35,25,35025
+Galatians,35,26,35026
+Galatians,35,27,35027
+Galatians,35,28,35028
+Galatians,35,29,35029
+Galatians,35,30,35030
+Galatians,35,31,35031
+Galatians,35,32,35032
+Galatians,35,33,35033
+Galatians,35,34,35034
+Galatians,35,35,35035
+Galatians,35,36,35036
+Galatians,35,37,35037
+Galatians,35,38,35038
+Galatians,35,39,35039
+Galatians,35,40,35040
+Galatians,35,41,35041
+Galatians,35,42,35042
+Galatians,35,43,35043
+Galatians,35,44,35044
+Galatians,35,45,35045
+Galatians,35,46,35046
+Ephesians,36,1,36001
+Ephesians,36,2,36002
+Ephesians,36,3,36003
+Ephesians,36,4,36004
+Ephesians,36,5,36005
+Ephesians,36,6,36006
+Ephesians,36,7,36007
+Ephesians,36,8,36008
+Ephesians,36,9,36009
+Ephesians,36,10,36010
+Ephesians,36,11,36011
+Ephesians,36,12,36012
+Ephesians,36,13,36013
+Ephesians,36,14,36014
+Ephesians,36,15,36015
+Ephesians,36,16,36016
+Ephesians,36,17,36017
+Ephesians,36,18,36018
+Ephesians,36,19,36019
+Ephesians,36,20,36020
+Ephesians,36,21,36021
+Ephesians,36,22,36022
+Ephesians,36,23,36023
+Ephesians,36,24,36024
+Ephesians,36,25,36025
+Ephesians,36,26,36026
+Ephesians,36,27,36027
+Ephesians,36,28,36028
+Ephesians,36,29,36029
+Ephesians,36,30,36030
+Ephesians,36,31,36031
+Ephesians,36,32,36032
+Ephesians,36,33,36033
+Ephesians,36,34,36034
+Ephesians,36,35,36035
+Ephesians,36,36,36036
+Ephesians,36,37,36037
+Ephesians,36,38,36038
+Ephesians,36,39,36039
+Ephesians,36,40,36040
+Ephesians,36,41,36041
+Ephesians,36,42,36042
+Ephesians,36,43,36043
+Ephesians,36,44,36044
+Ephesians,36,45,36045
+Ephesians,36,46,36046
+Ephesians,36,47,36047
+Ephesians,36,48,36048
+Ephesians,36,49,36049
+Ephesians,36,50,36050
+Ephesians,36,51,36051
+Ephesians,36,52,36052
+Ephesians,36,53,36053
+Ephesians,36,54,36054
+Ephesians,36,55,36055
+Ephesians,36,56,36056
+Ephesians,36,57,36057
+Ephesians,36,58,36058
+Ephesians,36,59,36059
+Ephesians,36,60,36060
+Ephesians,36,61,36061
+Ephesians,36,62,36062
+Ephesians,36,63,36063
+Ephesians,36,64,36064
+Ephesians,36,65,36065
+Ephesians,36,66,36066
+Ephesians,36,67,36067
+Ephesians,36,68,36068
+Ephesians,36,69,36069
+Ephesians,36,70,36070
+Ephesians,36,71,36071
+Ephesians,36,72,36072
+Ephesians,36,73,36073
+Ephesians,36,74,36074
+Ephesians,36,75,36075
+Ephesians,36,76,36076
+Ephesians,36,77,36077
+Ephesians,36,78,36078
+Ephesians,36,79,36079
+Ephesians,36,80,36080
+Ephesians,36,81,36081
+Ephesians,36,82,36082
+Ephesians,36,83,36083
+Ephesians,36,84,36084
+Ephesians,36,85,36085
+Ephesians,36,86,36086
+Ephesians,36,87,36087
+Ephesians,36,88,36088
+Ephesians,36,89,36089
+Ephesians,36,90,36090
+Ephesians,36,91,36091
+Ephesians,36,92,36092
+Ephesians,36,93,36093
+Ephesians,36,94,36094
+Ephesians,36,95,36095
+Ephesians,36,96,36096
+Ephesians,36,97,36097
+Philippians,37,1,37001
+Philippians,37,2,37002
+Philippians,37,3,37003
+Philippians,37,4,37004
+Philippians,37,5,37005
+Philippians,37,6,37006
+Philippians,37,7,37007
+Philippians,37,8,37008
+Philippians,37,9,37009
+Philippians,37,10,37010
+Philippians,37,11,37011
+Philippians,37,12,37012
+Philippians,37,13,37013
+Philippians,37,14,37014
+Philippians,37,15,37015
+Philippians,37,16,37016
+Philippians,37,17,37017
+Philippians,37,18,37018
+Philippians,37,19,37019
+Philippians,37,20,37020
+Philippians,37,21,37021
+Philippians,37,22,37022
+Philippians,37,23,37023
+Philippians,37,24,37024
+Philippians,37,25,37025
+Philippians,37,26,37026
+Philippians,37,27,37027
+Philippians,37,28,37028
+Philippians,37,29,37029
+Philippians,37,30,37030
+Philippians,37,31,37031
+Philippians,37,32,37032
+Philippians,37,33,37033
+Philippians,37,34,37034
+Philippians,37,35,37035
+Philippians,37,36,37036
+Philippians,37,37,37037
+Philippians,37,38,37038
+Philippians,37,39,37039
+Philippians,37,40,37040
+Philippians,37,41,37041
+Philippians,37,42,37042
+Philippians,37,43,37043
+Philippians,37,44,37044
+Philippians,37,45,37045
+Philippians,37,46,37046
+Philippians,37,47,37047
+Philippians,37,48,37048
+Philippians,37,49,37049
+Philippians,37,50,37050
+Philippians,37,51,37051
+Philippians,37,52,37052
+Philippians,37,53,37053
+Philippians,37,54,37054
+Philippians,37,55,37055
+Philippians,37,56,37056
+Philippians,37,57,37057
+Philippians,37,58,37058
+Philippians,37,59,37059
+Philippians,37,60,37060
+Philippians,37,61,37061
+Philippians,37,62,37062
+Colossians,38,1,38001
+Colossians,38,2,38002
+Colossians,38,3,38003
+Colossians,38,4,38004
+Colossians,38,5,38005
+Colossians,38,6,38006
+Colossians,38,7,38007
+Colossians,38,8,38008
+Colossians,38,9,38009
+Colossians,38,10,38010
+Colossians,38,11,38011
+Colossians,38,12,38012
+Colossians,38,13,38013
+Colossians,38,14,38014
+Colossians,38,15,38015
+Colossians,38,16,38016
+Colossians,38,17,38017
+Colossians,38,18,38018
+Colossians,38,19,38019
+Colossians,38,20,38020
+Colossians,38,21,38021
+Colossians,38,22,38022
+Colossians,38,23,38023
+Colossians,38,24,38024
+Colossians,38,25,38025
+Colossians,38,26,38026
+Colossians,38,27,38027
+Colossians,38,28,38028
+Colossians,38,29,38029
+Colossians,38,30,38030
+Colossians,38,31,38031
+Colossians,38,32,38032
+Colossians,38,33,38033
+Colossians,38,34,38034
+Colossians,38,35,38035
+Colossians,38,36,38036
+Colossians,38,37,38037
+Colossians,38,38,38038
+Colossians,38,39,38039
+Colossians,38,40,38040
+Colossians,38,41,38041
+Colossians,38,42,38042
+Colossians,38,43,38043
+Colossians,38,44,38044
+Colossians,38,45,38045
+Colossians,38,46,38046
+Colossians,38,47,38047
+Colossians,38,48,38048
+Colossians,38,49,38049
+Colossians,38,50,38050
+Colossians,38,51,38051
+Colossians,38,52,38052
+Colossians,38,53,38053
+Colossians,38,54,38054
+Colossians,38,55,38055
+Colossians,38,56,38056
+Colossians,38,57,38057
+Colossians,38,58,38058
+Colossians,38,59,38059
+Colossians,38,60,38060
+Colossians,38,61,38061
+Colossians,38,62,38062
+Colossians,38,63,38063
+Colossians,38,64,38064
+Colossians,38,65,38065
+1 Thessalonians,39,1,39001
+1 Thessalonians,39,2,39002
+1 Thessalonians,39,3,39003
+1 Thessalonians,39,4,39004
+1 Thessalonians,39,5,39005
+1 Thessalonians,39,6,39006
+1 Thessalonians,39,7,39007
+1 Thessalonians,39,8,39008
+1 Thessalonians,39,9,39009
+1 Thessalonians,39,10,39010
+1 Thessalonians,39,11,39011
+1 Thessalonians,39,12,39012
+1 Thessalonians,39,13,39013
+1 Thessalonians,39,14,39014
+1 Thessalonians,39,15,39015
+1 Thessalonians,39,16,39016
+1 Thessalonians,39,17,39017
+1 Thessalonians,39,18,39018
+1 Thessalonians,39,19,39019
+1 Thessalonians,39,20,39020
+1 Thessalonians,39,21,39021
+1 Thessalonians,39,22,39022
+1 Thessalonians,39,23,39023
+1 Thessalonians,39,24,39024
+2 Thessalonians,40,1,40001
+2 Thessalonians,40,2,40002
+2 Thessalonians,40,3,40003
+2 Thessalonians,40,4,40004
+2 Thessalonians,40,5,40005
+2 Thessalonians,40,6,40006
+2 Thessalonians,40,7,40007
+1 Timothy,41,1,41001
+1 Timothy,41,2,41002
+1 Timothy,41,3,41003
+1 Timothy,41,4,41004
+1 Timothy,41,5,41005
+1 Timothy,41,6,41006
+1 Timothy,41,7,41007
+1 Timothy,41,8,41008
+1 Timothy,41,9,41009
+1 Timothy,41,10,41010
+1 Timothy,41,11,41011
+1 Timothy,41,12,41012
+2 Timothy,42,1,42001
+2 Timothy,42,2,42002
+2 Timothy,42,3,42003
+2 Timothy,42,4,42004
+2 Timothy,42,5,42005
+2 Timothy,42,6,42006
+2 Timothy,42,7,42007
+2 Timothy,42,8,42008
+Titus,43,1,43001
+Titus,43,2,43002
+Titus,43,3,43003
+Titus,43,4,43004
+Titus,43,5,43005
+Titus,43,6,43006
+Philemon,44,1,44001
+Philemon,44,2,44002
+Hebrews,45,1,45001
+Hebrews,45,2,45002
+Hebrews,45,3,45003
+Hebrews,45,4,45004
+Hebrews,45,5,45005
+Hebrews,45,6,45006
+Hebrews,45,7,45007
+Hebrews,45,8,45008
+Hebrews,45,9,45009
+Hebrews,45,10,45010
+Hebrews,45,11,45011
+Hebrews,45,12,45012
+Hebrews,45,13,45013
+Hebrews,45,14,45014
+Hebrews,45,15,45015
+Hebrews,45,16,45016
+Hebrews,45,17,45017
+Hebrews,45,18,45018
+Hebrews,45,19,45019
+Hebrews,45,20,45020
+Hebrews,45,21,45021
+Hebrews,45,22,45022
+Hebrews,45,23,45023
+Hebrews,45,24,45024
+Hebrews,45,25,45025
+Hebrews,45,26,45026
+Hebrews,45,27,45027
+Hebrews,45,28,45028
+Hebrews,45,29,45029
+Hebrews,45,30,45030
+Hebrews,45,31,45031
+Hebrews,45,32,45032
+Hebrews,45,33,45033
+Hebrews,45,34,45034
+Hebrews,45,35,45035
+Hebrews,45,36,45036
+Hebrews,45,37,45037
+Hebrews,45,38,45038
+Hebrews,45,39,45039
+Hebrews,45,40,45040
+Hebrews,45,41,45041
+Hebrews,45,42,45042
+Hebrews,45,43,45043
+Hebrews,45,44,45044
+Hebrews,45,45,45045
+Hebrews,45,46,45046
+Hebrews,45,47,45047
+Hebrews,45,48,45048
+Hebrews,45,49,45049
+Hebrews,45,50,45050
+Hebrews,45,51,45051
+Hebrews,45,52,45052
+Hebrews,45,53,45053
+Hebrews,45,54,45054
+Hebrews,45,55,45055
+Hebrews,45,56,45056
+Hebrews,45,57,45057
+Hebrews,45,58,45058
+Hebrews,45,59,45059
+Hebrews,45,60,45060
+Hebrews,45,61,45061
+Hebrews,45,62,45062
+Hebrews,45,63,45063
+Hebrews,45,64,45064
+Hebrews,45,65,45065
+Hebrews,45,66,45066
+Hebrews,45,67,45067
+Hebrews,45,68,45068
+Hebrews,45,69,45069
+James,46,1,46001
+James,46,2,46002
+James,46,3,46003
+James,46,4,46004
+James,46,5,46005
+James,46,6,46006
+James,46,7,46007
+James,46,8,46008
+James,46,9,46009
+James,46,10,46010
+James,46,11,46011
+James,46,12,46012
+James,46,13,46013
+James,46,14,46014
+1 Peter,47,1,47001
+1 Peter,47,2,47002
+1 Peter,47,3,47003
+1 Peter,47,4,47004
+1 Peter,47,5,47005
+1 Peter,47,6,47006
+1 Peter,47,7,47007
+1 Peter,47,8,47008
+1 Peter,47,9,47009
+1 Peter,47,10,47010
+1 Peter,47,11,47011
+1 Peter,47,12,47012
+1 Peter,47,13,47013
+1 Peter,47,14,47014
+1 Peter,47,15,47015
+1 Peter,47,16,47016
+1 Peter,47,17,47017
+1 Peter,47,18,47018
+1 Peter,47,19,47019
+1 Peter,47,20,47020
+1 Peter,47,21,47021
+1 Peter,47,22,47022
+1 Peter,47,23,47023
+1 Peter,47,24,47024
+1 Peter,47,25,47025
+1 Peter,47,26,47026
+1 Peter,47,27,47027
+1 Peter,47,28,47028
+1 Peter,47,29,47029
+1 Peter,47,30,47030
+1 Peter,47,31,47031
+1 Peter,47,32,47032
+1 Peter,47,33,47033
+1 Peter,47,34,47034
+2 Peter,48,1,48001
+2 Peter,48,2,48002
+2 Peter,48,3,48003
+2 Peter,48,4,48004
+2 Peter,48,5,48005
+2 Peter,48,6,48006
+2 Peter,48,7,48007
+2 Peter,48,8,48008
+2 Peter,48,9,48009
+2 Peter,48,10,48010
+2 Peter,48,11,48011
+2 Peter,48,12,48012
+2 Peter,48,13,48013
+1 John,49,1,49001
+1 John,49,2,49002
+1 John,49,3,49003
+1 John,49,4,49004
+1 John,49,5,49005
+1 John,49,6,49006
+1 John,49,7,49007
+1 John,49,8,49008
+1 John,49,9,49009
+1 John,49,10,49010
+1 John,49,11,49011
+1 John,49,12,49012
+1 John,49,13,49013
+1 John,49,14,49014
+1 John,49,15,49015
+1 John,49,16,49016
+1 John,49,17,49017
+1 John,49,18,49018
+1 John,49,19,49019
+1 John,49,20,49020
+1 John,49,21,49021
+1 John,49,22,49022
+1 John,49,23,49023
+1 John,49,24,49024
+1 John,49,25,49025
+1 John,49,26,49026
+1 John,49,27,49027
+1 John,49,28,49028
+1 John,49,29,49029
+1 John,49,30,49030
+1 John,49,31,49031
+1 John,49,32,49032
+1 John,49,33,49033
+1 John,49,34,49034
+1 John,49,35,49035
+1 John,49,36,49036
+1 John,49,37,49037
+1 John,49,38,49038
+1 John,49,39,49039
+1 John,49,40,49040
+2 John,50,1,50001
+2 John,50,2,50002
+3 John,51,1,51001
+3 John,51,2,51002
+Jude,52,1,52001
+Jude,52,2,52002
+Jude,52,3,52003
+Jude,52,4,52004
+Jude,52,5,52005
+Revelation,53,1,53001
+Revelation,53,2,53002
+Revelation,53,3,53003
+Revelation,53,4,53004
+Revelation,53,5,53005
+Revelation,53,6,53006
+Revelation,53,7,53007
+Revelation,53,8,53008
+Revelation,53,9,53009
+Revelation,53,10,53010
+Revelation,53,11,53011
+Revelation,53,12,53012
+Revelation,53,13,53013
+Revelation,53,14,53014
+Revelation,53,15,53015
+Revelation,53,16,53016
+Revelation,53,17,53017
+Revelation,53,18,53018
+Revelation,53,19,53019
+Revelation,53,20,53020
+Revelation,53,21,53021
+Revelation,53,22,53022
+Revelation,53,23,53023
+Revelation,53,24,53024
+Revelation,53,25,53025
+Revelation,53,26,53026
+Revelation,53,27,53027
+Revelation,53,28,53028
+Revelation,53,29,53029
+Revelation,53,30,53030
+Revelation,53,31,53031
+Revelation,53,32,53032
+Revelation,53,33,53033
+Revelation,53,34,53034
+Revelation,53,35,53035
+Revelation,53,36,53036
+Revelation,53,37,53037
+Revelation,53,38,53038
+Revelation,53,39,53039
+Revelation,53,40,53040
+Revelation,53,41,53041
+Revelation,53,42,53042
+Revelation,53,43,53043
+Revelation,53,44,53044
+Revelation,53,45,53045
+Revelation,53,46,53046
+Revelation,53,47,53047
+Revelation,53,48,53048
+Revelation,53,49,53049
+Revelation,53,50,53050
+Revelation,53,51,53051
+Revelation,53,52,53052
+Revelation,53,53,53053
+Revelation,53,54,53054
+Revelation,53,55,53055
+Revelation,53,56,53056
+Revelation,53,57,53057
+Revelation,53,58,53058
+Revelation,53,59,53059
+Revelation,53,60,53060
+Revelation,53,61,53061
+Revelation,53,62,53062
+Revelation,53,63,53063
+Revelation,53,64,53064
+Revelation,53,65,53065
+Revelation,53,66,53066
+Revelation,53,67,53067
+Revelation,53,68,53068
