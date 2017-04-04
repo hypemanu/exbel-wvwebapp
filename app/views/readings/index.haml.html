@@ -1,0 +1,201 @@
+!!!
+%html
+  %head
+    %meta{:content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}/
+    %meta{:charset => "utf-8"}/
+    %meta{:content => "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui", :name => "viewport"}/
+    %meta{:content => "yes", :name => "apple-mobile-web-app-capable"}/
+    %meta{:content => "black", :name => "apple-mobile-web-app-status-bar-style"}/
+    %link{:href => "images/apple-touch-icon.png", :rel => "apple-touch-icon"}/
+    %link{:href => "images/apple-touch-startup-image-320x460.png", :rel => "apple-touch-startup-image"}/
+    %title Bernardo
+    / Path to Framework7 Library CSS
+    %link{:href => "css/framework7.min.css", :rel => "stylesheet"}/
+    %link{:href => "css/swipebox.css", :rel => "stylesheet"}/
+    / Path to your custom app styles
+    %link{:href => "style.css", :rel => "stylesheet"}/
+    %link{:href => "http://fonts.googleapis.com/css?family=Open+Sans:400,700", :rel => "stylesheet", :type => "text/css"}/
+  %body#mobile_wrap
+    / Status bar overlay for fullscreen mode
+    .statusbar-overlay
+    / Panels overlay
+    .panel-overlay
+    / Left panel with reveal effect
+    .panel.panel-left.panel-cover
+      .content-block
+        %ul.panel-content
+          %li.panel-link
+            %a.close-panel{:href => "about.html"}
+              %img{:alt => "about", :src => "images/icons/white/user.png"}>/
+              About
+          %li.panel-link
+            %a.close-panel{:href => "features.html"}
+              %img{:alt => "about", :src => "images/icons/white/features.png"}>/
+              Features
+          %li.panel-link
+            %a.close-panel{:href => "gallery.html"}
+              %img{:alt => "about", :src => "images/icons/white/gallery.png"}>/
+              Gallery
+          %li.panel-link
+            %a.close-panel{:href => "videos.html"}
+              %img{:alt => "about", :src => "images/icons/white/video.png"}>/
+              Videos
+          %li.panel-link
+            %a.close-panel{:href => "blog.html"}
+              %img{:alt => "about", :src => "images/icons/white/blog.png"}>/
+              blog
+          %li.panel-link
+            %a.close-panel{:href => "contact.html"}
+              %img{:alt => "about", :src => "images/icons/white/contact.png"}>/
+              contact
+    / Right panel with cover effect
+    .panel.panel-right.panel-cover
+      .content-block
+        .panel-cover
+          .cover
+          .cover-text
+            Hi, Username
+            %span Web designer
+        %ul.panel-content
+          %li.panel-link
+            %a.close-panel{:href => "#"}
+              Profile
+          %li.panel-link
+            %a.close-panel{:href => "#"}
+              Settings
+          %li.panel-link
+            %a.close-panel{:href => "#"} Account
+          %li.panel-link
+            %a.close-panel{:href => "#"}
+              Messages
+              %span.badge.bg-red 5
+          %li.panel-link
+            %a.close-panel{:href => "#"} Favourites
+          %li.panel-link
+            %a.close-panel{:href => "#"} Logout
+    / Views
+    .views
+      / Your main view, should have "view-main" class
+      .view.view-main
+        / Top Navbar
+        .navbar.navbar-hidden
+          .navbar-inner
+        / Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes
+        .pages.navbar-through.toolbar-through
+          / Page, data-page contains page name
+          #home.page.no-navbar{"data-page" => "index"}
+            / Scrollable page content
+            .page-content
+              #cover
+              .content
+                %a#logo{:href => "#"}
+                  %img{:alt => "Logo", :src => "images/logo.png"}/
+        / Bottom Toolbar
+        .toolbar.tabbar
+          .toolbar-inner
+            %a.link.open-login-screen{:href => "#"}
+              %img{:alt => "login", :src => "images/icons/white/login.png"}/
+            %a.link{:href => "features.html"}
+              %img{:alt => "features", :src => "images/icons/white/features.png"}/
+            %a.link{:href => "gallery.html"}
+              %img{:alt => "gallery", :src => "images/icons/white/gallery.png"}/
+            %a.link{:href => "blog.html"}
+              %img{:alt => "blog", :src => "images/icons/white/blog.png"}/
+    / Login Screen
+    .login-screen
+      / Default view-page layout
+      .view
+        .page
+          / page-content has additional login-screen content
+          .page-content.login-screen-content
+            .login-screen-title
+              %img{:alt => "Bernardo", :src => "images/logo-black.png"}/
+            / Login form
+            %form
+              .list-block
+                %ul
+                  %li.item-content
+                    .item-inner
+                      .item-title.label Username
+                      .item-input
+                        %input{:name => "username", :placeholder => "Username", :type => "text"}/
+                  %li.item-content
+                    .item-inner
+                      .item-title.label
+                        Password
+                        %p.forget-password
+                          %a.open-popup{"data-popup" => ".popup-forgot-password", :href => "#"} Forgot Password?
+                      .item-input
+                        %input{:name => "password", :placeholder => "Password", :type => "password"}/
+              .list-block
+                %ul
+                  %li
+                    .content-block
+                      %a.item-link.button.button-fill.color-blue{:href => "#"} Sign In
+                .list-block-label
+                  Don't have an account?
+                  %p
+                    %a.open-popup{"data-popup" => ".popup-register", :href => "#"} Sign up
+                  %br/
+                  %a.close-login-screen.button.button-fill.color-red{:href => "#"} Close
+    / Register Popup
+    .popup.popup-register
+      .page-content.login-screen-content
+        .login-screen-title
+          %img{:alt => "Bernardo", :src => "images/logo-black.png"}/
+        / Login form
+        %form
+          .list-block
+            %ul
+              %li.item-content
+                .item-inner
+                  .item-title.label Username
+                  .item-input
+                    %input{:name => "username", :placeholder => "Username", :type => "text"}/
+              %li.item-content
+                .item-inner
+                  .item-title.label Email
+                  .item-input
+                    %input{:name => "email", :placeholder => "Email", :type => "email"}/
+              %li.item-content
+                .item-inner
+                  .item-title.label
+                    Password
+                  .item-input
+                    %input{:name => "password", :placeholder => "Password", :type => "password"}/
+          .list-block
+            %ul
+              %li
+                .content-block
+                  %a.item-link.button.button-fill.color-blue{:href => "#"} Register now
+                  %br/
+                  %a.button.button-fill.color-red.close-popup{:href => "#"} Close
+    / Forgot password Popup
+    .popup.popup-forgot-password
+      .page-content.login-screen-content
+        .login-screen-title
+          %img{:alt => "Bernardo", :src => "images/logo-black.png"}/
+        / Login form
+        %form
+          .list-block
+            %ul
+              %li.item-content
+                .item-inner
+                  .item-title.label Your Email
+                  .item-input
+                    %input{:name => "email", :placeholder => "Email", :type => "email"}/
+          .list-block
+            %ul
+              %li
+                .content-block
+                  %a.item-link.button.button-fill.color-blue{:href => "#"} Resend password
+                  %br/
+                  %a.button.button-fill.color-red.close-popup{:href => "#"} Close
+            .list-block-label Check your email and follow the instructions to reset your password.
+    %script{:src => "js/jquery-1.10.1.min.js", :type => "text/javascript"}
+    / Path to Framework7 Library JS
+    %script{:src => "js/framework7.min.js", :type => "text/javascript"}
+    %script{:src => "js/jquery.swipebox.js", :type => "text/javascript"}
+    %script{:src => "js/jquery.fitvids.js", :type => "text/javascript"}
+    / Path to your app js
+    %script{:src => "js/my-app.js", :type => "text/javascript"}
