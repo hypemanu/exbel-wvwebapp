@@ -89,18 +89,19 @@
               #cover
               .content
                 %a#logo{:href => "#"}
-                  %img{:alt => "Logo", :src => "images/logo.png"}/
+                  = image_tag "images/logo.png", alt: 'Logo'
+            
         / Bottom Toolbar
         .toolbar.tabbar
           .toolbar-inner
             %a.link.open-login-screen{:href => "#"}
-              %img{:alt => "login", :src => "images/icons/white/login.png"}/
-            %a.link{:href => "features.html"}
-              %img{:alt => "features", :src => "images/icons/white/features.png"}/
-            %a.link{:href => "gallery.html"}
-              %img{:alt => "gallery", :src => "images/icons/white/gallery.png"}/
-            %a.link{:href => "blog.html"}
-              %img{:alt => "blog", :src => "images/icons/white/blog.png"}/
+              = image_tag "icons/black/login.png", alt: ''
+            %a.link{:href => "#"}
+              = image_tag "icons/black/features.png", alt: ''
+            %a.link{:href => "#"}
+              = image_tag "icons/black/gallery.png", alt: ''
+            %a.link{:href => "#"}
+              = image_tag "icons/black/blog.png", alt: ''
     / Login Screen
     .login-screen
       / Default view-page layout
