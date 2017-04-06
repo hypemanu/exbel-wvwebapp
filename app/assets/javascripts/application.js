@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require framework7.min
+//= require jquery.swipebox
+//= require jquery.fitvids
+//= require my-app
+// require_tree .

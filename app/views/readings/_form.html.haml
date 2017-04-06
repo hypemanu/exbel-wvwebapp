@@ -1,0 +1,11 @@
+= form_for :reading, url: readings_path, html: { method: :post } do |reading|
+  .col-md-12.center.well.well-sm
+    .space-4
+    %h4
+      Which message did you complete reading?
+      .readings-submit-form
+        = text_field_tag "fragment", nil, class: 'col-md-12'
+        = reading.submit "Post Reading!", class: "btn btn-success"
+        %h5
+          .text-info E.g. 1 Cor 1, or Matt 12
+    .space-6

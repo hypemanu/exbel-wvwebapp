@@ -75,7 +75,7 @@
     / Bottom Toolbar
     .toolbar.tabbar
       .toolbar-inner
-        %a.link.open-login-screen{:href => "#"}
+        %a.link{:href => new_user_session_path}
           = image_tag "icons/white/login.png", alt: ''
         %a.link{:href => "features.html"}
           = image_tag "icons/white/features.png", alt: ''
@@ -92,35 +92,6 @@
       .page-content.login-screen-content
         .login-screen-title
           = image_tag "logo-black.png", alt: ''
-          
-        / Login form
-        %form
-          .list-block
-            %ul
-              %li.item-content
-                .item-inner
-                  .item-title.label Username
-                  .item-input
-                    %input{:name => "username", :placeholder => "Username", :type => "text"}/
-              %li.item-content
-                .item-inner
-                  .item-title.label
-                    Password
-                    %p.forget-password
-                      %a.open-popup{"data-popup" => ".popup-forgot-password", :href => "#"} Forgot Password?
-                  .item-input
-                    %input{:name => "password", :placeholder => "Password", :type => "password"}/
-          .list-block
-            %ul
-              %li
-                .content-block
-                  %a.item-link.button.button-fill.color-blue{:href => "#"} Sign In
-            .list-block-label
-              Don't have an account?
-              %p
-                %a.open-popup{"data-popup" => ".popup-register", :href => "#"} Sign up
-              %br/
-              %a.close-login-screen.button.button-fill.color-red{:href => "#"} Close
 / Register Popup
 .popup.popup-register
   .page-content.login-screen-content
@@ -175,10 +146,3 @@
               %br/
               %a.button.button-fill.color-red.close-popup{:href => "#"} Close
         .list-block-label Check your email and follow the instructions to reset your password.
-%script{:src => "js/jquery-1.10.1.min.js", :type => "text/javascript"}
-/ Path to Framework7 Library JS
-%script{:src => "js/framework7.min.js", :type => "text/javascript"}
-%script{:src => "js/jquery.swipebox.js", :type => "text/javascript"}
-%script{:src => "js/jquery.fitvids.js", :type => "text/javascript"}
-/ Path to your app js
-%script{:src => "js/my-app.js", :type => "text/javascript"}
