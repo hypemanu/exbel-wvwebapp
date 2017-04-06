@@ -62,7 +62,7 @@ display:block;
 }
 a {
 text-decoration: none;
-color: #2E6E7F;
+color: #BF3B58;
 }
 p{
 padding:0px;
@@ -70,7 +70,7 @@ margin:0px;
 line-height:20px;
 }
 blockquote{
-border-left: 5px #2E6E7F solid;
+border-left: 5px #BF3B58 solid;
 padding:0 0 0 20px;
 margin:10px 0 20px 0;
 line-height:22px;
@@ -78,7 +78,7 @@ font-weight:300;
 }
 blockquote cite{
 display:block;
-color:#2E6E7F;
+color:#BF3B58;
 font-weight:700;
 font-size:11px;
 text-transform:uppercase;
@@ -93,7 +93,7 @@ margin-bottom:20px;
 .title{
 font-size:15px;
 font-weight:bold;
-color:#2E6E7F;
+color:#BF3B58;
 margin-bottom:30px;
 }
 .videocontainer{
@@ -106,7 +106,7 @@ margin:0;
 /* 3. HOME LAYOUT		 						 */
 /*===============================================*/
 #home{
-background-image:url(images/bg.jpg);
+background-image:url(bg.jpg);
 background-repeat:no-repeat;
 background-size:cover;
 background-position: center center;
@@ -117,7 +117,7 @@ left:0px;
 right:0px;
 top:0px;
 bottom:0px;
-background-color:#2E6E7F;
+background-color:#BF3B58;
 opacity:0.85;
 }
 #logo{
@@ -205,7 +205,7 @@ position:relative;
 /*===============================================*/
 /** Toolbar **/
 .toolbar{
-background-color:#2E6E7F;
+background-color:#BF3B58;
 }
 .toolbar:before{
 background-color:transparent;
@@ -215,11 +215,11 @@ max-width:30px;
 }
 /** Navbar **/
 .navbar{
-background-color:#2E6E7F;
+background-color:#BF3B58;
 color:#FFFFFF;
 }
 .navbar:after{
-background-color:#2E6E7F;
+background-color:#BF3B58;
 }
 .icon-home-white{
 background-image:url(images/icons/white/home.png);
@@ -287,7 +287,7 @@ background-image:url(images/icons/socials/pinterest.png);
 /*===============================================*/
 .button.button-fill.color-blue,
 .theme-blue .button.button-fill {
-background:#2E6E7F none repeat scroll 0% 0%;
+background:#BF3B58 none repeat scroll 0% 0%;
 color:#FFFFFF;
 }
 /*===============================================*/
@@ -380,7 +380,7 @@ color:#000000;
 margin-top:0px;
 }
 .comments .card-header{
-color:#2E6E7F;
+color:#BF3B58;
 }
 .comments .list-block .item-title {
 color:#8E8E93;
@@ -423,7 +423,7 @@ margin-left:0px!important;
 margin-right:0px!important;
 }
 .contact .card .card-header{
-color:#2E6E7F;
+color:#BF3B58;
 }
 /*===============================================*/
 /* 13. LOGIN SCREEN                             */

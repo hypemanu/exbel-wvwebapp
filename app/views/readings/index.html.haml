@@ -90,18 +90,17 @@
               .content
                 %a#logo{:href => "#"}
                   = image_tag "logo.png", alt: 'Logo'
-            
         / Bottom Toolbar
         .toolbar.tabbar
           .toolbar-inner
             %a.link.open-login-screen{:href => "#"}
-              = image_tag "icons/black/login.png", alt: ''
-            %a.link{:href => "#"}
-              = image_tag "icons/black/features.png", alt: ''
-            %a.link{:href => "#"}
-              = image_tag "icons/black/gallery.png", alt: ''
-            %a.link{:href => "#"}
-              = image_tag "icons/black/blog.png", alt: ''
+              = image_tag "icons/white/login.png", alt: ''
+            %a.link{:href => "features.html"}
+              = image_tag "icons/white/features.png", alt: ''
+            %a.link{:href => "gallery.html"}
+              = image_tag "icons/white/gallery.png", alt: ''
+            %a.link{:href => "blog.html"}
+              = image_tag "icons/white/blog.png", alt: ''
     / Login Screen
     .login-screen
       / Default view-page layout
