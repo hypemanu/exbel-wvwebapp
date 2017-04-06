@@ -26,27 +26,27 @@
         %ul.panel-content
           %li.panel-link
             %a.close-panel{:href => "about.html"}
-              %img{:alt => "about", :src => "images/icons/white/user.png"}>/
+              = image_tag "icons/white/user.png", alt: ''
               About
           %li.panel-link
             %a.close-panel{:href => "features.html"}
-              %img{:alt => "about", :src => "images/icons/white/features.png"}>/
+              = image_tag "icons/white/features.png", alt: ''
               Features
           %li.panel-link
             %a.close-panel{:href => "gallery.html"}
-              %img{:alt => "about", :src => "images/icons/white/gallery.png"}>/
+              = image_tag "icons/white/gallery.png", alt: ''
               Gallery
           %li.panel-link
             %a.close-panel{:href => "videos.html"}
-              %img{:alt => "about", :src => "images/icons/white/video.png"}>/
+              = image_tag "icons/white/video.png", alt: ''
               Videos
           %li.panel-link
             %a.close-panel{:href => "blog.html"}
-              %img{:alt => "about", :src => "images/icons/white/blog.png"}>/
+              = image_tag "icons/white/blog.png", alt: ''
               blog
           %li.panel-link
             %a.close-panel{:href => "contact.html"}
-              %img{:alt => "about", :src => "images/icons/white/contact.png"}>/
+              = image_tag "icons/white/contact.png", alt: ''
               contact
     / Right panel with cover effect
     .panel.panel-right.panel-cover
@@ -109,7 +109,8 @@
           / page-content has additional login-screen content
           .page-content.login-screen-content
             .login-screen-title
-              %img{:alt => "Bernardo", :src => "images/logo-black.png"}/
+              = image_tag "logo-black.png", alt: ''
+              
             / Login form
             %form
               .list-block
@@ -142,7 +143,7 @@
     .popup.popup-register
       .page-content.login-screen-content
         .login-screen-title
-          %img{:alt => "Bernardo", :src => "images/logo-black.png"}/
+          = image_tag "logo-black.png", alt: ''
         / Login form
         %form
           .list-block
@@ -174,7 +175,7 @@
     .popup.popup-forgot-password
       .page-content.login-screen-content
         .login-screen-title
-          %img{:alt => "Bernardo", :src => "images/logo-black.png"}/
+          = image_tag "logo-black.png", alt: ''
         / Login form
         %form
           .list-block
