@@ -1,66 +1,10 @@
-.statusbar-overlay
-/ Panels overlay
-.panel-overlay
-/ Left panel with reveal effect
-.panel.panel-left.panel-cover
-  .content-block
-    %ul.panel-content
-      %li.panel-link
-        %a.close-panel{:href => "about.html"}
-          = image_tag "icons/white/user.png", alt: ''
-          About
-      %li.panel-link
-        %a.close-panel{:href => "features.html"}
-          = image_tag "icons/white/features.png", alt: ''
-          Features
-      %li.panel-link
-        %a.close-panel{:href => "gallery.html"}
-          = image_tag "icons/white/gallery.png", alt: ''
-          Gallery
-      %li.panel-link
-        %a.close-panel{:href => "videos.html"}
-          = image_tag "icons/white/video.png", alt: ''
-          Videos
-      %li.panel-link
-        %a.close-panel{:href => "blog.html"}
-          = image_tag "icons/white/blog.png", alt: ''
-          blog
-      %li.panel-link
-        %a.close-panel{:href => "contact.html"}
-          = image_tag "icons/white/contact.png", alt: ''
-          contact
-/ Right panel with cover effect
-.panel.panel-right.panel-cover
-  .content-block
-    .panel-cover
-      .cover
-      .cover-text
-        Hi, Username
-        %span Web designer
-    %ul.panel-content
-      %li.panel-link
-        %a.close-panel{:href => "#"}
-          Profile
-      %li.panel-link
-        %a.close-panel{:href => "#"}
-          Settings
-      %li.panel-link
-        %a.close-panel{:href => "#"} Account
-      %li.panel-link
-        %a.close-panel{:href => "#"}
-          Messages
-          %span.badge.bg-red 5
-      %li.panel-link
-        %a.close-panel{:href => "#"} Favourites
-      %li.panel-link
-        %a.close-panel{:href => "#"} Logout
 / Views
 .views
   / Your main view, should have "view-main" class
   .view.view-main
     / Top Navbar
-    .navbar.navbar-hidden
-      .navbar-inner
+    / .navbar.navbar-hidden
+    /   .navbar-inner
     / Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes
     .pages.navbar-through.toolbar-through
       / Page, data-page contains page name
@@ -72,7 +16,7 @@
             %a#logo{:href => "#"}
               = image_tag "logo.png", alt: 'Logo'
     / Bottom Toolbar
-    .toolbar.tabbar
+    .toolbar.tabbar.bottom
       .toolbar-inner
         %a.tab-link{:href => new_reading_path}
           = image_tag "icons/white/features.png", alt: ''

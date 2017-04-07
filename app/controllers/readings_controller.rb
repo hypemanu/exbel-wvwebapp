@@ -3,7 +3,7 @@ class ReadingsController < ApplicationController
   # before_action :authenticate_user!
 
   def index
-    @readings = current_user.readings
+    #@readings = current_user.readings
   end
 
   def create

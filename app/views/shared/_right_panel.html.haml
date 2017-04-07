@@ -1,0 +1,10 @@
+/ Right Panel with Cover effect
+.panel.panel-right.panel-cover
+  .content-block
+    %ul.panel-content
+      %li.panel-link
+        %a.close-panel{:href => "#"} Close panel
+      / Click on link with "open-panel" and data-panel="left" attribute will open Left panel
+      - if user_signed_in?
+        %li.panel-link
+          = link_to 'Sign Out', destroy_user_session_path, method: :delete
