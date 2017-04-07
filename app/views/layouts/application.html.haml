@@ -14,6 +14,20 @@
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload'
     = javascript_include_tag 'application', 'data-turbolinks-track': 'reload'
     
-  %body#mobile_wrap
-
-    = yield
+  %body#mobile_wrap.framework7-root
+    .views
+      .view.view-main{"data-page" => "home"}
+        .pages
+          .page.navbar-fixed{"data-page" => "home"}
+            .navbar
+              .navbar-inner
+                %h3.left Excellent Beliver
+            
+            .page-content.contact
+              .page-header
+                %h1= yield :page_heading
+                .page-actions
+                  = yield :page_actions
+                .clearfix
+              
+              = yield
