@@ -1,4 +1,3 @@
-
 .statusbar-overlay
 / Panels overlay
 .panel-overlay
@@ -75,74 +74,11 @@
     / Bottom Toolbar
     .toolbar.tabbar
       .toolbar-inner
-        %a.link{:href => new_user_session_path}
-          = image_tag "icons/white/login.png", alt: ''
-        %a.link{:href => "features.html"}
+        %a.tab-link{:href => new_reading_path}
           = image_tag "icons/white/features.png", alt: ''
-        %a.link{:href => "gallery.html"}
+        = link_to new_user_session_path, class: 'tab-link' do
+          = image_tag "icons/white/login.png", alt: ''
+        %a.tab-link{:href => "gallery.html"}
           = image_tag "icons/white/gallery.png", alt: ''
-        %a.link{:href => "blog.html"}
+        %a.tab-link{:href => "blog.html"}
           = image_tag "icons/white/blog.png", alt: ''
-/ Login Screen
-.login-screen
-  / Default view-page layout
-  .view
-    .page
-      / page-content has additional login-screen content
-      .page-content.login-screen-content
-        .login-screen-title
-          = image_tag "logo-black.png", alt: ''
-/ Register Popup
-.popup.popup-register
-  .page-content.login-screen-content
-    .login-screen-title
-      = image_tag "logo-black.png", alt: ''
-    / Login form
-    %form
-      .list-block
-        %ul
-          %li.item-content
-            .item-inner
-              .item-title.label Username
-              .item-input
-                %input{:name => "username", :placeholder => "Username", :type => "text"}/
-          %li.item-content
-            .item-inner
-              .item-title.label Email
-              .item-input
-                %input{:name => "email", :placeholder => "Email", :type => "email"}/
-          %li.item-content
-            .item-inner
-              .item-title.label
-                Password
-              .item-input
-                %input{:name => "password", :placeholder => "Password", :type => "password"}/
-      .list-block
-        %ul
-          %li
-            .content-block
-              %a.item-link.button.button-fill.color-blue{:href => "#"} Register now
-              %br/
-              %a.button.button-fill.color-red.close-popup{:href => "#"} Close
-/ Forgot password Popup
-.popup.popup-forgot-password
-  .page-content.login-screen-content
-    .login-screen-title
-      = image_tag "logo-black.png", alt: ''
-    / Login form
-    %form
-      .list-block
-        %ul
-          %li.item-content
-            .item-inner
-              .item-title.label Your Email
-              .item-input
-                %input{:name => "email", :placeholder => "Email", :type => "email"}/
-      .list-block
-        %ul
-          %li
-            .content-block
-              %a.item-link.button.button-fill.color-blue{:href => "#"} Resend password
-              %br/
-              %a.button.button-fill.color-red.close-popup{:href => "#"} Close
-        .list-block-label Check your email and follow the instructions to reset your password.

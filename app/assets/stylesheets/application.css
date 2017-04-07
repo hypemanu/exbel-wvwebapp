@@ -12,6 +12,7 @@
  *
  *= require framework7.min
  *= require swipebox
+ *= require reset
  *= require style
  * require_tree .
  * require_self

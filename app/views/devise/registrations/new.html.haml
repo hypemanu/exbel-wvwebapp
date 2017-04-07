@@ -1,0 +1,36 @@
+.view.view-main
+  .pages
+    .page
+      / page-content has additional login-screen content
+      .page-content.login-screen-content
+        .login-screen-title
+          = image_tag "logo-black.png", alt: 'Logo'
+        / Login form
+        = form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f|
+          .list-block
+            %ul
+              %li.item-content
+                .item-inner
+                  = f.label :email, class: 'item-title label'
+                  .item-input
+                    = f.email_field :email, :placeholder => "Email", type: 'text'
+              %li.item-content
+                .item-inner
+                  = f.label :password, class: 'item-title label'
+                  .item-input
+                    = f.password_field :password, autocomplete: "off", :placeholder => "password", type: 'password'
+              %li.item-content
+                .item-inner
+                  = f.label :password_confirmation, class: 'item-title label'
+                  .item-input
+                    = f.password_field :password_confirmation, autocomplete: "off", :placeholder => "Retype password", type: 'password'
+          .list-block
+            %ul
+              %li
+                .content-block
+                  = f.submit "Register", class: 'item-link button button-fill color-blue'
+            .list-block-label
+              Already have an account?
+              %p
+                = link_to 'Sign in', new_user_session_path
+

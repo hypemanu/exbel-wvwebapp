@@ -4,4 +4,5 @@ Rails.application.routes.draw do
   resources :readings, only: [:index, :create, :new, :destroy]
   get 'welcome' => "home#welcome"
   
+  root 'readings#index'
 end
