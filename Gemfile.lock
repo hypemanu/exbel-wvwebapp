@@ -33,6 +33,8 @@ GEM
       activemodel (= 5.0.2)
       activesupport (= 5.0.2)
       arel (~> 7.0)
+    activerecord-import (0.10.0)
+      activerecord (>= 3.0)
     activesupport (5.0.2)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (~> 0.7)
@@ -143,6 +145,7 @@ GEM
     nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
     orm_adapter (0.5.0)
+    pg (0.20.0)
     pry (0.10.4)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
@@ -281,6 +284,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activerecord-import (= 0.10.0)
   bullet
   byebug
   capybara
@@ -296,6 +300,7 @@ DEPENDENCIES
   letter_opener_web (~> 1.2.0)
   listen (~> 3.0.5)
   meta_request
+  pg
   pry-rails
   puma (~> 3.0)
   rails (~> 5.0.2)

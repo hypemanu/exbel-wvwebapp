@@ -11,6 +11,11 @@
             %ul
               %li.item-content
                 .item-inner
+                  = f.label :name, class: 'item-title label'
+                  .item-input
+                    = f.text_field :name, autofocus: true, :placeholder => "Fullname", type: 'text'
+              %li.item-content
+                .item-inner
                   = f.label :email, class: 'item-title label'
                   .item-input
                     = f.email_field :email, :placeholder => "Email", type: 'text'

@@ -18,7 +18,7 @@ module MassImporter
   end
 end
 
-MassImporter.import Chapter, "db/chapters.csv"
 MassImporter.import Bookfrag, "db/bookfrags.csv"
+MassImporter.import Chapter, "db/chapters.csv"
 
 # Rake::Task['static_pages:seed'].invoke
