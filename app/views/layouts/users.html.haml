@@ -15,6 +15,14 @@
     = javascript_include_tag 'application', 'data-turbolinks-track': 'reload'
     
   %body#mobile_wrap
-    = render 'shared/header' 
-    = render 'shared/right_panel'
-    = yield
+    / Views
+    .views
+      / Your main view, should have "view-main" class
+      .view.view-main
+        = render 'shared/header' 
+        = render 'shared/left_panel'
+        .pages
+          .page.navbar-fixed.toolbar-fixed
+            .page-content
+              = yield
+            = render 'shared/bottom_toolbar'

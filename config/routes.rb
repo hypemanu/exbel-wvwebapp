@@ -2,11 +2,15 @@ Rails.application.routes.draw do
   devise_for :users
 
   authenticated :user do
-    root 'readings#index', as: :authenticated_root
+    root 'readings#dashboard', as: :authenticated_root
   end
   
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
-  resources :readings, only: [:index, :create, :new, :destroy]
+  resources :readings, only: [:index, :create, :new, :destroy] do
+    collection do
+      get 'dashboard'
+    end
+  end
 
   get 'welcome' => "home#welcome"
   

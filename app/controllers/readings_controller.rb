@@ -1,9 +1,9 @@
 class ReadingsController < ApplicationController
   layout "users"
-  # before_action :authenticate_user!
+  before_action :authenticate_user!
 
   def index
-    #@readings = current_user.readings
+    @readings = current_user.readings
   end
 
   def create
@@ -23,5 +23,9 @@ class ReadingsController < ApplicationController
   end
 
   def destroy
+  end
+
+  def dashboard
+    
   end
 end

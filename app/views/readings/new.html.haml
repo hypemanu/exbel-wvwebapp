@@ -1,7 +1,4 @@
-.view.view-main
-  .pages
-    .page
-      / page-content has additional login-screen content
-      .page-content
-        .content-block
-          = render 'form'
+- content_for :page_title do
+  Add a reading
+ 
+= render 'form'

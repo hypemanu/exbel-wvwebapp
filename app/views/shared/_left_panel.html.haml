@@ -1,5 +1,5 @@
-/ Right Panel with Cover effect
-.panel.panel-right.panel-cover
+/ Left Panel with Cover effect
+.panel.panel-left.panel-cover
   .content-block
     %ul.panel-content
       %li.panel-link
@@ -8,3 +8,6 @@
       - if user_signed_in?
         %li.panel-link
           = link_to 'Sign Out', destroy_user_session_path, method: :delete
+      - else
+        %li.panel-link
+          = link_to 'Sign In', new_user_session_path, method: :delete

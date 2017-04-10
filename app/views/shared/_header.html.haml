@@ -1,8 +1,9 @@
-/ .navbar
-/   .navbar-inner
-/     .left 
-/       %a Link
-/     .center Page Title
-/     .right
-/       %a.open-panel{"data-panel" => "right", :href => "#"} Open Panel
-
+.navbar
+  .navbar-inner
+    .left 
+      %a.link.open-panel{"data-panel" => "left", :href => "#"}
+        %i.icon.icon-bars.color-white
+    .center= yield :page_title
+    .right
+      %a.link{:href => "#"}
+        %span Back

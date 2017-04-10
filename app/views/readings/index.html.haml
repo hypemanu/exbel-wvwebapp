@@ -1,28 +1,13 @@
-/ Views
-.views
-  / Your main view, should have "view-main" class
-  .view.view-main
-    / Top Navbar
-    / .navbar.navbar-hidden
-    /   .navbar-inner
-    / Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes
-    .pages.navbar-through.toolbar-through
-      / Page, data-page contains page name
-      #home.page.no-navbar{"data-page" => "index"}
-        / Scrollable page content
-        .page-content
-          #cover
-          .content
-            %a#logo{:href => "#"}
-              = image_tag "logo.png", alt: 'Logo'
-    / Bottom Toolbar
-    .toolbar.tabbar.bottom
-      .toolbar-inner
-        %a.tab-link{:href => new_reading_path}
-          = image_tag "icons/white/features.png", alt: ''
-        = link_to new_user_session_path, class: 'tab-link' do
-          = image_tag "icons/white/login.png", alt: ''
-        %a.tab-link{:href => "gallery.html"}
-          = image_tag "icons/white/gallery.png", alt: ''
-        %a.tab-link{:href => "blog.html"}
-          = image_tag "icons/white/blog.png", alt: ''
+- content_for :page_title do
+  My Readings
+  
+.list-block
+  %ul
+    - @readings.each do |reading|
+      %li.item-content
+        .item-inner
+          .item-title= reading.chapter.name + reading.chapter.chapter
+        .item-media
+          = link_to reading_path(reading), method: :delete do 
+            %i.icon.icon-f7
+  .list-block-label List block label text goes here
