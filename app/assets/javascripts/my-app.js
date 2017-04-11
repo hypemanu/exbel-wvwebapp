@@ -1,7 +1,6 @@
 var ready = function(){
 	// Initialize your app
 	var myApp = new Framework7({
-		swipePanel: 'left',
 		swipeBackPage: false,
 	});
 
