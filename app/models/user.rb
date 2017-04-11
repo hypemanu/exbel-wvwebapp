@@ -42,7 +42,7 @@ class User < ActiveRecord::Base
   end
   has_many :chapters, through: :readings
   has_one :own_group, class_name: "Group", foreign_key: "owner_id"
-  belongs_to :group
+  belongs_to :group, class_name: "Group", optional: true
   has_many :all_comments, class_name: 'Comment'
   has_many :comments, as: :commentable, dependent: :destroy
 
@@ -50,7 +50,7 @@ class User < ActiveRecord::Base
 
   # validates_attachment_content_type :avatar, content_type: /\Aimage\/.*\Z/
 
-  validates :name, presence: true
+  # validates :name, presence: true
   scope :by_phone_number, lambda {|phone_number|
     phone_number = phone_number.gsub(/.*(\d{3})(\d{3})(\d{4})$/, "(\\1) \\2-\\3")
     where(phone_number: phone_number)
