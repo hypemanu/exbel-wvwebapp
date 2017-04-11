@@ -8,8 +8,8 @@ class ReadingsController < ApplicationController
 
   def create
     if chapter = current_user.readings.create_bulk(params[:fragment])
-      current_user.update_last_read_in_group
-      flash[:success] = "Successfully submitted #{chapter.title}"
+      # current_user.update_last_read_in_group
+      flash[:success] = "Successfully submitted #{chapter.map(&:title).to_sentence}"
     else
       flash[:error] = "No matches for #{params[:fragment].inspect}"
     end
@@ -23,6 +23,12 @@ class ReadingsController < ApplicationController
   end
 
   def destroy
+    @reading = current_user.readings.find_by(id: params[:id])
+    @reading.destroy if @reading
+    flash[:success] = "Successfully removed #{@reading.chapter.title}"
+    respond_to do |format|
+      format.html{ redirect_to root_path }
+    end
   end
 
   def dashboard

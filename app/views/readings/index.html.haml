@@ -2,12 +2,13 @@
   My Readings
   
 .list-block
+  .list-block-label Completed readings
   %ul
     - @readings.each do |reading|
       %li.item-content
         .item-inner
-          .item-title= reading.chapter.name + reading.chapter.chapter
+          .item-title= "#{reading.chapter.name} #{reading.chapter.chapter}"
         .item-media
           = link_to reading_path(reading), method: :delete do 
-            %i.icon.icon-f7
-  .list-block-label List block label text goes here
+            %i.f7-icons.color-black trash_fill
+            

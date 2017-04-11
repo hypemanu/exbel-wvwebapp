@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'acts-as-taggable-on', github: 'mbleigh/acts-as-taggable-on'
 gem 'pg'
 # gem 'omniauth'
 # gem 'omniauth-oauth2'
@@ -42,7 +43,7 @@ gem 'devise'
 gem 'haml-rails'
 gem 'figaro'
 # used to seed data
-gem 'activerecord-import', '0.10.0'
+gem 'activerecord-import'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

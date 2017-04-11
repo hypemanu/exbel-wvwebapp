@@ -1,0 +1,6 @@
+- if flash.any?
+  - flash.to_a.to_h.each do |key, value|
+    :javascript
+      var noti = new Framework7();
+      var notiView = noti.addView('.view-main');
+      noti.addNotification({ title: '#{key}', message: '#{value}' });

@@ -13,4 +13,3 @@ var ready = function(){
 	$(".swipebox").swipebox();
 }
 $(document).on('turbolinks:load', ready);
-
