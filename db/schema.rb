@@ -102,43 +102,44 @@ ActiveRecord::Schema.define(version: 20170329141406) do
   end
 
   create_table "users", force: :cascade do |t|
-    t.string   "name"
-    t.string   "uid"
-    t.string   "provider"
     t.string   "email"
-    t.string   "image_url"
-    t.integer  "group_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.string   "timezone",                   default: "Eastern Time (US & Canada)"
-    t.boolean  "public_readings",            default: true
-    t.boolean  "is_visible_on_leaderboards", default: true
-    t.string   "phone_number"
-    t.string   "avatar_file_name"
-    t.string   "avatar_content_type"
-    t.integer  "avatar_file_size"
-    t.datetime "avatar_updated_at"
-    t.boolean  "notify_on_wall_post",        default: true
-    t.date     "joined_group_on"
-    t.boolean  "banned",                     default: false
-    t.boolean  "muted",                      default: false
-    t.boolean  "send_monthly_report",        default: true
     t.string   "encrypted_password",         default: "",                           null: false
     t.string   "reset_password_token"
     t.datetime "reset_password_sent_at"
-    t.integer  "sign_in_count",              default: 0
+    t.datetime "remember_created_at"
+    t.integer  "sign_in_count",              default: 0,                            null: false
     t.datetime "current_sign_in_at"
     t.datetime "last_sign_in_at"
-    t.string   "current_sign_in_ip"
-    t.string   "last_sign_in_ip"
+    t.inet     "current_sign_in_ip"
+    t.inet     "last_sign_in_ip"
     t.string   "confirmation_token"
     t.datetime "confirmed_at"
     t.datetime "confirmation_sent_at"
     t.string   "unconfirmed_email"
+    t.string   "name"
+    t.string   "phone_number"
+    t.string   "timezone",                   default: "Eastern Time (US & Canada)"
+    t.string   "image_url"
+    t.string   "uid"
+    t.string   "provider"
+    t.integer  "group_id"
+    t.date     "joined_group_on"
+    t.string   "avatar_file_name"
+    t.string   "avatar_content_type"
+    t.integer  "avatar_file_size"
+    t.datetime "avatar_updated_at"
+    t.boolean  "banned",                     default: false
+    t.boolean  "muted",                      default: false
+    t.boolean  "public_readings",            default: true
+    t.boolean  "is_visible_on_leaderboards", default: true
+    t.boolean  "notify_on_wall_post",        default: true
+    t.boolean  "send_monthly_report",        default: true
     t.boolean  "receive_weekly_emails",      default: true,                         null: false
+    t.index ["email"], name: "index_users_on_email", unique: true, using: :btree
     t.index ["group_id"], name: "index_users_on_group_id", using: :btree
     t.index ["phone_number"], name: "index_users_on_phone_number", using: :btree
     t.index ["provider", "uid"], name: "index_users_on_provider_and_uid", using: :btree
+    t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true, using: :btree
   end
 
   add_foreign_key "group_invites", "groups"
