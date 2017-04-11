@@ -6,8 +6,11 @@
         .item-inner
           .item-input
             = text_field_tag "fragment", nil, class: 'col-md-12', type: 'text', placeholder: 'Which message did you complete reading?'
+  / .list-block
+  /   .text-info E.g. 1 Cor 1, or Matt 12
+  .content-block 
+    %p E.g. 1 Cor 1, or Matt 12
   .list-block
     %ul
       %li
         = reading.submit "Post Reading!", class: "button button-fill color-blue"
-    .text-info E.g. 1 Cor 1, or Matt 12
