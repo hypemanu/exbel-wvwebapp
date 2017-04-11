@@ -1,0 +1,17 @@
+.card
+  .card-content
+    .card-content-inner
+      You're not part of any group. So please create a new group or join an existing group!
+= form_for Group.new do |f|
+  .list-block
+    %ul
+      %li.item-content
+        .item-inner
+          = f.label :name, class: 'item-title label'
+          .item-input
+            = f.text_field :name, autofocus: true, :placeholder => "Fullname", type: 'text'
+  .list-block
+    %ul
+      %li
+        .content-block
+          = f.submit "Create Group", class: 'item-link button button-fill color-blue'

@@ -7,7 +7,7 @@ class Group < ActiveRecord::Base
   # Associations
   has_many :users
   belongs_to :owner, class_name: "User"
-  has_many :comments, as: :commentable, dependent: :destroy
+  # has_many :comments, as: :commentable, dependent: :destroy
   has_many :group_invites, dependent: :destroy, inverse_of: :group
 
   acts_as_taggable

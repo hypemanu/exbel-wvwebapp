@@ -12,6 +12,9 @@ Rails.application.routes.draw do
     end
   end
 
+  resources :groups, only: [:create]
+  get 'my_group' => 'groups#my_group', as: :my_group
+
   get 'welcome' => "home#welcome"
   
   root 'home#welcome'
