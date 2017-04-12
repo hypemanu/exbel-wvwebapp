@@ -9,5 +9,9 @@
         .content-block-title Welcome!
         .content-block
           %p Excellent Believer facilitates reading the Life-Studies in groups. We'd like to encourage everyone to read two Life-Studies of Genesis a week. However if your church has another reading schedule please follow that. If your group is reading the Life-Study of Genesis, don't forget to tag your group with "Genesis"
-        .content-block
-          = link_to 'Sign In', new_user_session_path, class: 'button button-big button-red button-fill'
+        .row.content-block
+          .col-35
+            
+            = link_to new_user_session_path, class: 'button button-big button-red button-fill' do
+              Sign in
+              %i.f7-icons.color-white arrow_right
