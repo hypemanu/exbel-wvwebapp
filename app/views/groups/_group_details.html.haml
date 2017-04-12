@@ -9,3 +9,31 @@
       .item-inner
         .item-title= @group.score
         .item-after Score
+
+.content-block-title Group Members
+.list-block
+  %ul
+    - @group_members.each do |group_member|
+      %li
+        .item-content
+          .item-inner
+            .item-title= group_member[:name]
+            .item-after Name
+        .item-content
+          .item-inner
+            .item-subtitle= group_member[:email]
+            .item-after Email
+        .item-content
+          .item-inner
+            .item-subtitle= group_member[:joined]
+            .item-after Joined
+        .item-content
+          .item-inner
+            .item-subtitle= group_member[:msgs_read]
+            .item-after Total Msgs
+        .item-content
+          .item-inner
+            .item-subtitle= group_member[:last_activity]
+            .item-after Last Activity
+      .item-divider
+      

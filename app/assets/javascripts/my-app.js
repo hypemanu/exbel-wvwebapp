@@ -2,6 +2,7 @@ var ready = function(){
 	// Initialize your app
 	var myApp = new Framework7({
 		swipeBackPage: false,
+    swipePanel: 'left'
 	});
 
 	// Export selectors engine
